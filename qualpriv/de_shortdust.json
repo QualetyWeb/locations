@@ -1,1 +1,1192 @@
-
+[
+  {
+    "name": ["hidecar1", "Tunnelroom"],
+    "weapon": "weapon_molotov",
+    "position": [-168.51989746094, 558.60040283203, -4.7449493408203],
+    "viewangles": [-13.231825828552, 21.819324493408],
+    "grenade": {
+      "run": 1,
+      "recovery_yaw": 170
+    }
+  },
+  {
+    "name": ["tunnel3", "CT Fakeduck"],
+    "weapon": "weapon_molotov",
+    "position": [686.95281982422, 983.41131591797, 32.03125],
+    "viewangles": [-25.945320129395, -104.81667327881]
+  },
+  {
+    "name": ["outsidetunnel3", "Hole \/ Crack"],
+    "weapon": "weapon_hegrenade",
+    "position": [700.91198730469, 862.7646484375, 16.03125],
+    "viewangles": [-10.023379325867, 179.37187194824],
+    "grenade": {
+      "run": 5,
+      "run_yaw": 180,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["outsidetunnel3", "Hole \/ Crack"],
+    "weapon": "weapon_molotov",
+    "position": [682.1162109375, 849.06329345703, 8.1657562255859],
+    "viewangles": [-13.065950393677, 177.94013977051],
+    "grenade": {
+      "run": 7,
+      "run_yaw": 180,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["crack1", "Ladder Room"],
+    "weapon": "weapon_hegrenade",
+    "position": [-90.808464050293, 811.36834716797, 8.0332183837891],
+    "viewangles": [-1.972487449646, 118.76525115967],
+    "grenade": {
+      "run": 26,
+      "run_yaw": -76,
+      "recovery_yaw": -180,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["crack1", "Ladder Room"],
+    "weapon": "weapon_molotov",
+    "position": [-91.990600585938, 813.533203125, 8.0332183837891],
+    "viewangles": [-1.5891485214233, 117.27017211914],
+    "grenade": {
+      "run": 26,
+      "run_yaw": -76,
+      "recovery_yaw": -180,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["behindcar", "Box"],
+    "weapon": "weapon_molotov",
+    "position": [290.74865722656, 498.67645263672, 7.53125],
+    "viewangles": [-19.056077957153, 163.23976135254]
+  },
+  {
+    "name": ["behindcar", "Box"],
+    "weapon": "weapon_hegrenade",
+    "position": [290.7487487793, 498.67666625977, 7.53125],
+    "viewangles": [-10.967626571655, 162.0129699707],
+    "grenade": {
+      "run": 1,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["outsidetunnel2", "Catwalk"],
+    "weapon": "weapon_molotov",
+    "position": [748.97448730469, 858.03240966797, 10.150291442871],
+    "viewangles": [-19.242752075195, 179.53860473633],
+    "grenade": {
+      "run": 3,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["outsidetunnel1", "Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [686.85125732422, 902.25219726563, 32.03125],
+    "viewangles": [-7.9769124984741, -157.1036529541]
+  },
+  {
+    "name": ["corner1", "Esp Holder [Movement]"],
+    "weapon": "weapon_molotov",
+    "position": [51.290374755859, 307.63955688477, 0.067550659179688],
+    "viewangles": [7.5193419456482, 162.32940673828],
+    "grenade": {
+      "run": 16,
+      "run_yaw": -57,
+      "recovery_yaw": 128,
+      "jump": true
+    }
+  },
+  {
+    "name": ["corner1", "Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [51.625381469727, 307.43304443359, 0.067550659179688],
+    "viewangles": [-7.1242151260376, 125.37512207031],
+    "grenade": {
+      "run": 3,
+      "recovery_yaw": 99
+    }
+  },
+  {
+    "name": ["corner1", "Catwalk"],
+    "weapon": "weapon_molotov",
+    "position": [64.090744018555, 295.7502746582, 0.051555633544922],
+    "viewangles": [-7.2775611877441, 136.83755493164],
+    "grenade": {
+      "run": 5,
+      "recovery_yaw": 90
+    }
+  },
+  {
+    "name": ["t_tunnel", "Tunnel"],
+    "weapon": "weapon_molotov",
+    "position": [-687.88366699219, 1361.73828125, 32.03125],
+    "viewangles": [-10.178492546082, -1.0081340074539],
+    "grenade": {
+      "run": 19,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["catwalk2", "CT Tunnel [Movement]"],
+    "weapon": "weapon_molotov",
+    "position": [-856.17572021484, 968.96765136719, 0.03125],
+    "viewangles": [4.2784414291382, 20.329517364502],
+    "grenade": {
+      "run": 29,
+      "run_yaw": -100,
+      "recovery_yaw": -150,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Catwalk1", "Corner"],
+    "weapon": "weapon_molotov",
+    "position": [-896.05865478516, 1018.1960449219, 35.03125],
+    "viewangles": [5.0417556762695, -50.962463378906],
+    "grenade": {
+      "run": 17,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["catwalk1", "CT Fakeduck [Push]"],
+    "weapon": "weapon_molotov",
+    "position": [-856.14526367188, 968.97705078125, 0.03125],
+    "viewangles": [1.4331738948822, -25.163345336914],
+    "grenade": {
+      "run": 19,
+      "run_yaw": -75,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["rampdown2", "Behind Car"],
+    "weapon": "weapon_molotov",
+    "position": [-1196.8896484375, 986.91790771484, -183.36357116699],
+    "viewangles": [-3.7074902057648, 3.7189128398895],
+    "grenade": {
+      "run": 19,
+      "run_yaw": -80,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["downramp1", "Corner"],
+    "weapon": "weapon_molotov",
+    "position": [-1196.8923339844, 986.91436767578, -183.35737609863],
+    "viewangles": [-4.3558382987976, -24.165180206299],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["wall1", "Corner [Push]"],
+    "weapon": "weapon_molotov",
+    "position": [-856.16839599609, 968.98760986328, 0.03125],
+    "viewangles": [3.1434364318848, -51.332260131836],
+    "grenade": {
+      "run": 14,
+      "recovery_jump": true,
+      "recovery_yaw": -24,
+      "jump": true
+    }
+  },
+  {
+    "name": ["tunnel1", "Hole"],
+    "weapon": "weapon_molotov",
+    "position": [686.75183105469, 1138.2905273438, 32.03125],
+    "viewangles": [-13.440408706665, 170.03379821777],
+    "grenade": {
+      "run": 20,
+      "recovery_yaw": 137,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["tunnel1", "Car"],
+    "weapon": "weapon_molotov",
+    "position": [686.86724853516, 902.25750732422, 32.03125],
+    "viewangles": [-16.015966415405, -145.97752380371]
+  },
+  {
+    "name": ["ladder1", "Car [Unsafe]"],
+    "weapon": "weapon_molotov",
+    "position": [-198.12742614746, 1902.6424560547, 32.03125],
+    "viewangles": [19.483644485474, -90.846908569336],
+    "grenade": {
+      "run": 29,
+      "run_yaw": 39,
+      "recovery_yaw": -136,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ladder1", "Car [Unsafe]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-198.12825012207, 1902.642578125, 32.03125],
+    "viewangles": [18.295654296875, -91.902839660645],
+    "grenade": {
+      "run": 29,
+      "run_yaw": 40,
+      "recovery_yaw": -136,
+      "jump": true
+    }
+  },
+  {
+    "name": ["cts1", "Catwalk"],
+    "weapon": "weapon_molotov",
+    "position": [134.43968200684, -661.58038330078, 0.031326293945313],
+    "viewangles": [0.99002021551132, 123.06211090088],
+    "grenade": {
+      "run": 14,
+      "recovery_yaw": -26,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Catty", "Tunnel"],
+    "weapon": "weapon_molotov",
+    "position": [-880.9072265625, 1384.7546386719, 0.03125],
+    "viewangles": [-9.0859394073486, -1.732063293457],
+    "grenade": {
+      "run": 45,
+      "recovery_yaw": -119
+    }
+  },
+  {
+    "name": ["Ladder", "Hole"],
+    "weapon": "weapon_molotov",
+    "position": [-249.66749572754, 1901.7554931641, 32.03125],
+    "viewangles": [-18.986934661865, -48.178894042969],
+    "grenade": {
+      "run": 32,
+      "recovery_yaw": -108,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Ladder", "Crack"],
+    "weapon": "weapon_molotov",
+    "position": [-194.89784240723, 1884.7066650391, 32.03125],
+    "viewangles": [-11.489395141602, -63.329071044922],
+    "grenade": {
+      "run": 18,
+      "recovery_yaw": -90,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Cart", "CT Fakeduck"],
+    "weapon": "weapon_molotov",
+    "position": [299.32614135742, 218.08505249023, 7.1706695556641],
+    "viewangles": [-5.2871022224426, -148.92353820801],
+    "grenade": {
+      "run": 17,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Tunnel", "Ramp \/ Barrels"],
+    "weapon": "weapon_hegrenade",
+    "position": [686.98492431641, 920.53039550781, 32.03125],
+    "viewangles": [3.2275104522705, -160.95408630371],
+    "grenade": {
+      "run": 12,
+      "delay": 13,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Inside", "Tunnel [Movement]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-235.35754394531, 1796.3156738281, 32.03125],
+    "viewangles": [12.848978996277, -66.217735290527],
+    "grenade": {
+      "run": 18,
+      "run_yaw": 90,
+      "recovery_yaw": -157,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Ramp", "Tunnel"],
+    "weapon": "weapon_molotov",
+    "position": [-613.92822265625, 533.85571289063, -115.56271362305],
+    "viewangles": [-31.164003372192, 13.059050559998],
+    "grenade": {
+      "run": 23
+    },
+    "duck": true
+  },
+  {
+    "name": ["Catwalk", "Corner"],
+    "weapon": "weapon_hegrenade",
+    "position": [-896.03521728516, 1018.1636962891, 35.03125],
+    "viewangles": [5.4059400558472, -51.0465965271],
+    "grenade": {
+      "run": 21,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Wall", "Corner [Unsafe]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-846.3232421875, 972.41253662109, 0.03125],
+    "viewangles": [8.3911418914795, -10.754337310791],
+    "grenade": {
+      "run": 19,
+      "run_yaw": -90,
+      "recovery_yaw": -180,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Espspot1", "Corner [Dropdown]"],
+    "weapon": "weapon_molotov",
+    "position": [-1263.9681396484, 1238.4282226563, 32.03125],
+    "viewangles": [-20.790884017944, -36.631542205811],
+    "grenade": {
+      "run": 6
+    }
+  },
+  {
+    "name": ["wallct", "Tunnel [Team smoke]"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-26.143325805664, 288.35708618164, 0.03125],
+    "viewangles": [-12.480009078979, 43.879749298096],
+    "grenade": {
+      "run": 6,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["tunnelct", "Corner [Team smoke]"],
+    "description": "teamhelp",
+    "weapon": "weapon_smokegrenade",
+    "position": [686.99237060547, 933.32427978516, 32.03125],
+    "viewangles": [-5.6131620407104, -141.06774902344]
+  },
+  {
+    "name": ["wallct", "Site [Low DMG]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-31.968208312988, 347.94500732422, 0.03125],
+    "viewangles": [-2.1044526100159, 82.612831115723],
+    "grenade": {
+      "run": 1,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["cts1", "Catwalk"],
+    "weapon": "weapon_molotov",
+    "position": [-57.010009765625, -644.99322509766, 5.0709838867188],
+    "viewangles": [-7.4442129135132, 145.89738464355],
+    "grenade": {
+      "run": 55,
+      "run_yaw": -74,
+      "delay": 6,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["cts2", "Catwalk"],
+    "weapon": "weapon_molotov",
+    "position": [-39.828212738037, -725.61547851563, 8.8808746337891],
+    "viewangles": [-11.332271575928, 142.81538391113],
+    "grenade": {
+      "run": 65,
+      "run_yaw": -65,
+      "delay": 9,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["cts2", "Catwalk"],
+    "weapon": "weapon_molotov",
+    "position": [36.389850616455, -772.45568847656, 6.7181396484375],
+    "viewangles": [-3.034574508667, 140.86888122559],
+    "grenade": {
+      "run": 65,
+      "run_yaw": -59,
+      "delay": 3,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["cts2", "Catwalk"],
+    "weapon": "weapon_molotov",
+    "position": [112.35093688965, -730.94390869141, 0.032173156738281],
+    "viewangles": [-4.5044240951538, 139.18441772461],
+    "grenade": {
+      "run": 30,
+      "run_yaw": -50,
+      "delay": 5,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Car [Movement]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-126.39818572998, 1216.1481933594, 32.03125],
+    "viewangles": [8.6010894775391, -98.129333496094],
+    "grenade": {
+      "run": 10,
+      "run_yaw": 90,
+      "recovery_yaw": -138,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Car"],
+    "weapon": "weapon_hegrenade",
+    "position": [-151.53630065918, 1046.7436523438, 32.03125],
+    "viewangles": [22.847852706909, -36.36893081665],
+    "grenade": {
+      "run": 6
+    }
+  },
+  {
+    "name": ["ramp1", "Tunnel"],
+    "weapon": "weapon_hegrenade",
+    "position": [-219.72149658203, 531.01483154297, -15.99959564209],
+    "viewangles": [-11.23745059967, 23.804233551025],
+    "grenade": {
+      "run": 7,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["cttunnel", "Hole [-30]"],
+    "weapon": "weapon_hegrenade",
+    "position": [656.2265625, 1112.455078125, 32.03125],
+    "viewangles": [-8.3172159194946, 144.46908569336],
+    "grenade": {
+      "run": 11,
+      "recovery_yaw": 137,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["outct1", "Esp Holder [Movement]"],
+    "weapon": "weapon_hegrenade",
+    "position": [69.292663574219, 271.33129882813, 0.044921875],
+    "viewangles": [7.4869956970215, 160.57664489746],
+    "grenade": {
+      "run": 33,
+      "run_yaw": -43,
+      "recovery_yaw": 128,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["outct1", "Site"],
+    "weapon": "weapon_molotov",
+    "position": [-31.972759246826, 347.90966796875, 0.03125],
+    "viewangles": [-1.9737756252289, 82.909378051758],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["ttunnel2", "Car [Low DMG]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-306.32223510742, 1451.8675537109, 32.03125],
+    "viewangles": [-3.0150008201599, -61.399169921875]
+  },
+  {
+    "name": ["ttunnel3", "Car [Low DMG]"],
+    "weapon": "weapon_molotov",
+    "position": [-298.9983215332, 1450.7966308594, 32.03125],
+    "viewangles": [-3.3469173908234, -61.798793792725]
+  },
+  {
+    "name": ["inside1", "Car [Left Spread]"],
+    "weapon": "weapon_molotov",
+    "position": [165.19613647461, 1066.6258544922, 32.03125],
+    "viewangles": [14.576104164124, -134.76856994629],
+    "grenade": {
+      "run": 6,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["ctt1", "Ramp"],
+    "weapon": "weapon_hegrenade",
+    "position": [686.96801757813, 920.51574707031, 32.03125],
+    "viewangles": [-7.9424338340759, -156.6272277832]
+  },
+  {
+    "name": ["cart1", "Tunnel"],
+    "weapon": "weapon_molotov",
+    "position": [233.72764587402, 148.17655944824, 59.320114135742],
+    "viewangles": [-11.61012840271, 62.68314743042],
+    "grenade": {
+      "run": 8,
+      "run_yaw": 180,
+      "delay": 13,
+      "recovery_yaw": 180,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["out_t1", "Short [Far]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1113.5803222656, 1532.94921875, 0.03125],
+    "viewangles": [-14.164093971252, -65.545829772949],
+    "grenade": {
+      "run": 4,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Stairs", "Catwalk [Push]"],
+    "weapon": "weapon_molotov",
+    "position": [-1534.9898681641, 1415.7619628906, -31.460018157959],
+    "viewangles": [-6.7369360923767, -22.070598602295],
+    "grenade": {
+      "run": 14,
+      "recovery_yaw": 0,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Stairs", "Catwalk [Push]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1534.9898681641, 1415.7619628906, -31.468070983887],
+    "viewangles": [-6.7369360923767, -22.070598602295],
+    "grenade": {
+      "run": 14,
+      "recovery_yaw": 0,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["out_t2", "Car [Far]"],
+    "weapon": "weapon_molotov",
+    "position": [-896.05047607422, 1018.1926879883, 35.03125],
+    "viewangles": [9.0160694122314, -20.984281539917],
+    "grenade": {
+      "run": 28,
+      "run_yaw": -46,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["l_room1", "Tunnel [Full]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-238.55139160156, 1854.4301757813, 32.03125],
+    "viewangles": [-7.3486943244934, -45.167366027832],
+    "grenade": {
+      "run": 25,
+      "recovery_yaw": -123,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["l_room1", "Tunnel"],
+    "weapon": "weapon_molotov",
+    "position": [-238.56343078613, 1854.4423828125, 32.03125],
+    "viewangles": [-7.3486943244934, -45.167366027832],
+    "grenade": {
+      "run": 25,
+      "recovery_yaw": -123,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Inside", "Tunnel [Movement]"],
+    "weapon": "weapon_molotov",
+    "position": [-235.35855102539, 1796.3016357422, 32.03125],
+    "viewangles": [12.848978996277, -66.217735290527],
+    "grenade": {
+      "run": 18,
+      "run_yaw": 90,
+      "recovery_yaw": -157,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ctwall", "Catwalk [Low DMG]"],
+    "weapon": "weapon_hegrenade",
+    "position": [66.491386413574, 293.34994506836, 0.048492431640625],
+    "viewangles": [-7.5474481582642, 136.71745300293],
+    "grenade": {
+      "run": 8,
+      "recovery_yaw": 46
+    }
+  },
+  {
+    "name": ["cttunnel1", "Catwalk"],
+    "weapon": "weapon_hegrenade",
+    "position": [748.91650390625, 853.59600830078, 9.5686569213867],
+    "viewangles": [3.4217910766602, 179.72839355469],
+    "grenade": {
+      "run": 22,
+      "recovery_yaw": 180,
+      "delay": 7,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ts1", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1072.8854980469, 1788.513671875, -191.96875],
+    "viewangles": [-8.8192472457886, -82.643135070801]
+  },
+  {
+    "name": ["ts2", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1175.5797119141, 1690.51171875, -190.72483825684],
+    "viewangles": [-6.9700627326965, -74.200790405273]
+  },
+  {
+    "name": ["Unnamed", "Car"],
+    "weapon": "weapon_molotov",
+    "position": [-162.41729736328, 1058.7052001953, 32.03125],
+    "viewangles": [3.8752150535583, -37.657764434814],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["boxshort1", "Catwalk"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1113.5783691406, 1532.9566650391, 0.03125],
+    "viewangles": [-24.094472885132, -63.247413635254],
+    "grenade": {
+      "strength": 0.5,
+      "recovery_yaw": 180,
+      "run": 3
+    }
+  },
+  {
+    "name": ["boxshort1", "Catwalk"],
+    "weapon": "weapon_molotov",
+    "position": [-1113.5822753906, 1532.9642333984, 0.03125],
+    "viewangles": [-24.094472885132, -63.247413635254],
+    "grenade": {
+      "strength": 0.5,
+      "recovery_yaw": 180,
+      "run": 1
+    }
+  },
+  {
+    "name": ["cttunnel2", "Ramp [Far]"],
+    "weapon": "weapon_hegrenade",
+    "position": [700.92913818359, 862.76831054688, 16.03125],
+    "viewangles": [-13.366173744202, -169.07684326172],
+    "grenade": {
+      "run": 17,
+      "run_speed": true,
+      "recovery_yaw": 180,
+      "delay": 24,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ctt4", "Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [686.96783447266, 939.92083740234, 32.03125],
+    "viewangles": [-7.2649326324463, -155.20837402344]
+  },
+  {
+    "name": ["Unnamed", "CT Fakeduck"],
+    "weapon": "weapon_molotov",
+    "position": [-192.5099029541, 552.75445556641, -10.653308868408],
+    "viewangles": [-7.7702836990356, -46.576374053955],
+    "grenade": {
+      "strength": 0.5,
+      "recovery_yaw": -161,
+      "run": 1,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Tunnel", "Car"],
+    "weapon": "weapon_hegrenade",
+    "position": [-330.51651000977, 1454.9235839844, 32.03125],
+    "viewangles": [20.47119140625, -60.683319091797],
+    "grenade": {
+      "run": 3,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Tunnel", "Car"],
+    "weapon": "weapon_molotov",
+    "position": [-330.4958190918, 1454.8894042969, 32.03125],
+    "viewangles": [19.514183044434, -59.471103668213],
+    "grenade": {
+      "run": 3,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Inside", "Hole [Close]"],
+    "weapon": "weapon_molotov",
+    "position": [-417.47393798828, 1452.1030273438, 32.03125],
+    "viewangles": [-12.176391601563, -32.758163452148],
+    "grenade": {
+      "run": 20,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["t123", "Site [Movement]"],
+    "weapon": "weapon_hegrenade",
+    "position": [593.03106689453, 1038.9537353516, 32.03125],
+    "viewangles": [14.324213981628, 29.10778427124],
+    "grenade": {
+      "run": 21,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["wall1", "Corner [Movement]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-856.16577148438, 968.98712158203, 0.03125],
+    "viewangles": [3.1434364318848, -51.332260131836],
+    "grenade": {
+      "run": 14,
+      "recovery_jump": true,
+      "recovery_yaw": -24,
+      "jump": true
+    }
+  },
+  {
+    "name": ["twall", "Crack \/ Hole"],
+    "weapon": "weapon_molotov",
+    "position": [-896.05932617188, 1018.2362670898, 35.03125],
+    "viewangles": [9.5575437545776, -50.939414978027],
+    "grenade": {
+      "run": 23,
+      "recovery_jump": true,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Inside", "Hole [Movement]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-417.47424316406, 1452.1025390625, 32.03125],
+    "viewangles": [-12.176391601563, -32.758163452148],
+    "grenade": {
+      "run": 20,
+      "recovery_yaw": 46,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Hole"],
+    "weapon": "weapon_hegrenade",
+    "position": [-353.91329956055, 1454.9763183594, 32.03125],
+    "viewangles": [-17.114896774292, -54.184761047363],
+    "grenade": {
+      "strength": 0.5,
+      "run": 6,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["inside1", "Car [Low DMG]"],
+    "weapon": "weapon_hegrenade",
+    "position": [165.19499206543, 1066.6246337891, 32.03125],
+    "viewangles": [14.576104164124, -134.76856994629],
+    "grenade": {
+      "run": 6,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Tunnel [Movement]"],
+    "weapon": "weapon_hegrenade",
+    "position": [172.95376586914, 1485.7678222656, 32.03125],
+    "viewangles": [15.859378814697, -32.843914031982],
+    "grenade": {
+      "run": 10,
+      "run_yaw": -90,
+      "recovery_yaw": 180,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Tunnel [Movement]"],
+    "weapon": "weapon_molotov",
+    "position": [172.96379089355, 1485.7613525391, 32.03125],
+    "viewangles": [15.859378814697, -32.843914031982],
+    "grenade": {
+      "run": 10,
+      "run_yaw": -90,
+      "recovery_yaw": 180,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Corner [Team Smoke]"],
+    "weapon": "weapon_smokegrenade",
+    "position": [686.96789550781, 988.91082763672, 32.03125],
+    "viewangles": [-7.5706028938293, -137.58918762207]
+  },
+  {
+    "name": ["Unnamed", "Leftside Corner"],
+    "weapon": "weapon_molotov",
+    "position": [593.025390625, 915.951171875, 32.03125],
+    "viewangles": [-38.700664520264, -119.41661834717],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": ["Unnamed", "Tunnel [Push]"],
+    "weapon": "weapon_molotov",
+    "position": [-637.48590087891, 1361.0043945313, 32.03125],
+    "viewangles": [-10.178492546082, -1.0081340074539],
+    "grenade": {
+      "run": 15,
+      "recovery_yaw": 26,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box \/ Catwalk [Movement]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-16.616443634033, 341.98361206055, 6.6294593811035],
+    "viewangles": [11.64754486084, 174.94180297852],
+    "grenade": {
+      "run": 19,
+      "run_yaw": -105,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box \/ Catwalk [Movement]"],
+    "weapon": "weapon_molotov",
+    "position": [-15.582679748535, 341.48626708984, 6.622428894043],
+    "viewangles": [13.57257270813, 174.74690246582],
+    "grenade": {
+      "run": 18,
+      "run_yaw": -98,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Plant"],
+    "weapon": "weapon_molotov",
+    "position": [682.40289306641, 1318.6499023438, 32.03125],
+    "viewangles": [-3.0817227363586, -140.59658813477],
+    "grenade": {
+      "run": 3,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Plant"],
+    "weapon": "weapon_hegrenade",
+    "position": [682.38195800781, 1318.6544189453, 32.03125],
+    "viewangles": [-3.0817227363586, -140.59658813477],
+    "grenade": {
+      "run": 3,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Tunnel [Push"],
+    "weapon": "weapon_hegrenade",
+    "position": [172.94927978516, 1485.7384033203, 32.03125],
+    "viewangles": [20.412944793701, -28.152467727661],
+    "grenade": {
+      "run": 13,
+      "run_yaw": -90,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["t123", "Site [Movement]"],
+    "weapon": "weapon_molotov",
+    "position": [593.06372070313, 1038.9583740234, 32.03125],
+    "viewangles": [14.324213981628, 29.10778427124],
+    "grenade": {
+      "run": 21,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CT Fakeduck"],
+    "weapon": "weapon_hegrenade",
+    "position": [-90.799003601074, 811.40612792969, 8.0414352416992],
+    "viewangles": [-14.239922523499, -68.740531921387],
+    "grenade": {
+      "run": 1,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CT Fakeduck"],
+    "weapon": "weapon_molotov",
+    "position": [-92.004753112793, 813.51599121094, 8.0328712463379],
+    "viewangles": [-11.20853805542, -68.403709411621]
+  },
+  {
+    "name": ["Unnamed", "Tunnel"],
+    "weapon": "weapon_hegrenade",
+    "position": [162.17294311523, 114.98692321777, 0.034385681152344],
+    "viewangles": [-16.317161560059, 63.802600860596]
+  },
+  {
+    "name": ["Unnamed", "Tunnel"],
+    "weapon": "weapon_molotov",
+    "position": [162.17712402344, 114.99639129639, 0.034385681152344],
+    "viewangles": [-16.317161560059, 63.802600860596]
+  },
+  {
+    "name": ["Unnamed", "Ladderroom"],
+    "weapon": "weapon_molotov",
+    "position": [465.09872436523, 1203.7521972656, 32.03125],
+    "viewangles": [3.0947098731995, 143.09283447266],
+    "grenade": {
+      "run": 3,
+      "recovery_yaw": -72,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Tunnel"],
+    "weapon": "weapon_molotov",
+    "position": [125.64794921875, 983.58337402344, 58.110958099365],
+    "viewangles": [-3.0285255908966, 49.436859130859],
+    "grenade": {
+      "run": 4,
+      "recovery_yaw": 31,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Tunnel"],
+    "weapon": "weapon_hegrenade",
+    "position": [125.64100646973, 983.65594482422, 58.113151550293],
+    "viewangles": [-3.0285255908966, 49.436859130859],
+    "grenade": {
+      "run": 4,
+      "recovery_yaw": 31,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Anti-Push"],
+    "weapon": "weapon_molotov",
+    "position": [239.96786499023, 1418.9086914063, 32.03125],
+    "viewangles": [10.578773498535, -95.672210693359],
+    "grenade": {
+      "run": 8,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1080.7121582031, 2212.5402832031, -188.95623779297],
+    "viewangles": [-9.1960124969482, -81.409873962402],
+    "grenade": {
+      "run": 2,
+      "recovery_yaw": -52,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1160.5096435547, 2001.4886474609, -184.70323181152],
+    "viewangles": [-8.1399927139282, -75.713905334473],
+    "grenade": {
+      "run": 1,
+      "recovery_yaw": 28,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1207.0169677734, 2143.9338378906, -177.98287963867],
+    "viewangles": [-7.1687045097351, -75.120887756348],
+    "grenade": {
+      "run": 2,
+      "recovery_yaw": -72,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1182.5469970703, 2082.17578125, -179.482421875],
+    "viewangles": [-6.8200559616089, -75.604225158691],
+    "grenade": {
+      "run": 1,
+      "recovery_yaw": -111,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1376.4553222656, 2133.4201660156, -175.96875],
+    "viewangles": [-5.2800025939941, -81.324073791504],
+    "grenade": {
+      "run": 27,
+      "run_yaw": 40,
+      "recovery_yaw": -90,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-958.99908447266, 2179.9086914063, -181.37312316895],
+    "viewangles": [16.824453353882, -78.213676452637],
+    "grenade": {
+      "run": 20,
+      "run_yaw": -40,
+      "recovery_yaw": 14,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1128.4992675781, 2169.4436035156, -189.24810791016],
+    "viewangles": [-9.9692888259888, -82.339241027832],
+    "grenade": {
+      "run": 7,
+      "recovery_yaw": -64,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1112.7185058594, 2044.6075439453, -187.17520141602],
+    "viewangles": [-8.882495880127, -82.286460876465],
+    "grenade": {
+      "run": 2,
+      "recovery_yaw": 10,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1260.7131347656, 2194.5869140625, -177.56448364258],
+    "viewangles": [-8.2972211837769, -73.203971862793],
+    "grenade": {
+      "run": 2,
+      "recovery_yaw": -28,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1012.721496582, 2230.4890136719, -186.63610839844],
+    "viewangles": [-10.554513931274, -77.927757263184],
+    "grenade": {
+      "run": 2,
+      "run_yaw": -47,
+      "recovery_yaw": 10,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1044.7421875, 2062.6804199219, -191.25756835938],
+    "viewangles": [-9.0915012359619, -85.890258789063],
+    "grenade": {
+      "run": 3,
+      "recovery_yaw": 0
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1328.6885986328, 2176.5563964844, -175.96875],
+    "viewangles": [-7.9200086593628, -69.59595489502],
+    "grenade": {
+      "run": 5,
+      "recovery_yaw": -7,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-991.00793457031, 2011.935546875, -187.72717285156],
+    "viewangles": [-8.088282585144, -88.747573852539],
+    "grenade": {
+      "recovery_yaw": -10
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-934.34265136719, 2117.4240722656, -177.52696228027],
+    "viewangles": [-7.1720094680786, -68.344352722168],
+    "grenade": {
+      "run": 51,
+      "run_yaw": -57,
+      "recovery_yaw": 18,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-966.33758544922, 1949.4770507813, -181.87814331055],
+    "viewangles": [-5.8960089683533, -65.748443603516],
+    "grenade": {
+      "run": 31,
+      "run_yaw": -66,
+      "recovery_yaw": 7,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Tunnel"],
+    "weapon": "weapon_molotov",
+    "position": [296.62326049805, 195.0711517334, 7.2334289550781],
+    "viewangles": [-19.349031448364, 78.19002532959],
+    "grenade": {
+      "run": 1,
+      "run_yaw": 45
+    }
+  }
+]

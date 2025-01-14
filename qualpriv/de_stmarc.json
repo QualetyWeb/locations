@@ -1,1 +1,558 @@
-
+[
+  {
+    "name": ["Van3", "Boat full spread"],
+    "description": "KKR",
+    "weapon": "weapon_molotov",
+    "position": [-8010.0717773438, 6838.9248046875, 32.03125],
+    "viewangles": [-22.22589302063, -15.464389801025]
+  },
+  {
+    "name": ["Van1", "Boat [Semi Safe]"],
+    "description": "KKR",
+    "weapon": "weapon_molotov",
+    "position": [-7983.8408203125, 6886.4858398438, 32.03125],
+    "viewangles": [-28.689315795898, -46.817668914795],
+    "grenade": {
+      "run": 8,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["site3", "Van"],
+    "weapon": "weapon_molotov",
+    "position": [-6790.6420898438, 6974.478515625, 31.154922485352],
+    "viewangles": [-20.41290473938, -173.10507202148]
+  },
+  {
+    "name": ["bc1", "Van \/ Car"],
+    "description": "TOES",
+    "weapon": "weapon_molotov",
+    "position": [-7070.9731445313, 7136.5009765625, 32.03125],
+    "viewangles": [-41.25345993042, -161.04357910156],
+    "grenade": {
+      "strength": 0.5,
+      "recovery_yaw": 180,
+      "run": 1
+    }
+  },
+  {
+    "name": ["site1", "Boiler \/ Barrels"],
+    "description": "FULL",
+    "weapon": "weapon_molotov",
+    "position": [-6645.3193359375, 6967.9912109375, 32.030204772949],
+    "viewangles": [-24.4189453125, -172.6815032959],
+    "grenade": {
+      "run": 18,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["CT Spawn", "boiler"],
+    "description": "KKR",
+    "weapon": "weapon_molotov",
+    "position": [-6425.53515625, 6204.7397460938, 32.429122924805],
+    "viewangles": [-1.8692953586578, 166.5774230957],
+    "grenade": {
+      "run": 20,
+      "recovery_jump": true,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Boat2", "Van \/ Car [SAFE]"],
+    "description": "KKR",
+    "weapon": "weapon_molotov",
+    "position": [-6981.0405273438, 6271.728515625, 32.336975097656],
+    "viewangles": [-39.67293548584, 145.63557434082],
+    "grenade": {
+      "run": 6,
+      "recovery_jump": true,
+      "run_speed": true,
+      "recovery_yaw": 180,
+      "delay": 23,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Boat1", "Van \/ Car [Semisafe]"],
+    "description": "KKR",
+    "weapon": "weapon_molotov",
+    "position": [-6985.8188476563, 6190.8701171875, 32.247497558594],
+    "viewangles": [-45.104530334473, 143.12377929688],
+    "grenade": {
+      "run": 14,
+      "recovery_jump": true,
+      "run_speed": true,
+      "recovery_yaw": 180,
+      "delay": 26,
+      "jump": true
+    }
+  },
+  {
+    "name": ["dawdd", "Barrels + Toe Shooter"],
+    "description": "KKR",
+    "weapon": "weapon_hegrenade",
+    "position": [-8026.3188476563, 6854.1806640625, 32.03125],
+    "viewangles": [-13.914692878723, 0.42350459098816],
+    "grenade": {
+      "run": 2,
+      "recovery_yaw": 180,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["CT Spawn", "fakeduck barrels"],
+    "description": "SLOW",
+    "weapon": "weapon_molotov",
+    "position": [-6039.380859375, 6127.806640625, 32.922508239746],
+    "viewangles": [-12.683581352234, 168.9288482666],
+    "grenade": {
+      "run": 165,
+      "recovery_jump": true,
+      "delay": 6,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["bs1", "Site [UP]"],
+    "description": "Slow",
+    "weapon": "weapon_hegrenade",
+    "position": [-7358.279296875, 7156.2958984375, 33.507217407227],
+    "viewangles": [-31.367523193359, -28.030044555664],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": ["bs1", "Site [DOWN]"],
+    "description": "Slow",
+    "weapon": "weapon_hegrenade",
+    "position": [-7358.2587890625, 7156.2724609375, 33.514129638672],
+    "viewangles": [-29.26927947998, -37.178951263428],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": ["bs1", "Site [UP]"],
+    "description": "Slow",
+    "weapon": "weapon_molotov",
+    "position": [-7358.2788085938, 7156.29296875, 33.51579284668],
+    "viewangles": [-27.949865341187, -28.714744567871],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": ["bs2", "Van + Spread"],
+    "weapon": "weapon_molotov",
+    "position": [-7137.1962890625, 7076.267578125, 75.345428466797],
+    "viewangles": [-6.5470013618469, -161.62283325195]
+  },
+  {
+    "name": ["bs2", "Van distance"],
+    "weapon": "weapon_hegrenade",
+    "position": [-7111.095703125, 7079.3168945313, 75.288017272949],
+    "viewangles": [-22.994422912598, -163.19161987305],
+    "grenade": {
+      "strength": 0.5,
+      "run": 6
+    }
+  },
+  {
+    "name": ["bs2", "ICE + BARRELS"],
+    "weapon": "weapon_molotov",
+    "position": [-7137.177734375, 7076.2646484375, 75.345428466797],
+    "viewangles": [-16.295660018921, -164.05453491211]
+  },
+  {
+    "name": ["barrels1", "Boat"],
+    "description": "Slow",
+    "weapon": "weapon_molotov",
+    "position": [-8450.6083984375, 6651.5659179688, 57.19319152832],
+    "viewangles": [-26.871294021606, -3.6164331436157],
+    "grenade": {
+      "run": 10,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["barrels1", "Site"],
+    "description": "Slow",
+    "weapon": "weapon_molotov",
+    "position": [-8450.603515625, 6651.564453125, 57.185882568359],
+    "viewangles": [-18.268140792847, 8.8248682022095],
+    "grenade": {
+      "run": 2,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["behindice1", "Site (most down)"],
+    "description": "crouch",
+    "weapon": "weapon_molotov",
+    "position": [-8332.5595703125, 6904.8852539063, 46.072608947754],
+    "viewangles": [-16.624094009399, -0.59199124574661],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["van5", "Site"],
+    "description": "kkr",
+    "weapon": "weapon_molotov",
+    "position": [-8010.0102539063, 6838.9233398438, 32.03125],
+    "viewangles": [-21.120090484619, 2.8440732955933],
+    "duck": true
+  },
+  {
+    "name": ["site1", "Van + Back"],
+    "description": "duck",
+    "weapon": "weapon_molotov",
+    "position": [-6837.9858398438, 6942.98046875, 70.466354370117],
+    "viewangles": [-17.09135055542, -172.59861755371],
+    "duck": true
+  },
+  {
+    "name": ["truck", "van"],
+    "description": "slow",
+    "weapon": "weapon_molotov",
+    "position": [-5979.5200195313, 7049.7758789063, 31.54216003418],
+    "viewangles": [-19.814889907837, -176.80351257324],
+    "grenade": {
+      "run": 27,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["bs4", "van + spread"],
+    "description": "cool",
+    "weapon": "weapon_molotov",
+    "position": [-6645.23046875, 6968.0336914063, 32.02173614502],
+    "viewangles": [-13.914312362671, -177.87347412109],
+    "grenade": {
+      "run": 14,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["bs4", "ICE (full)"],
+    "description": "spread",
+    "weapon": "weapon_molotov",
+    "position": [-6645.2255859375, 6968.0322265625, 32.017524719238],
+    "viewangles": [-21.300422668457, -177.49565124512],
+    "grenade": {
+      "run": 4,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["tspawn", "Boat \/ Hold"],
+    "description": "cool",
+    "weapon": "weapon_molotov",
+    "position": [-5684.6528320313, 6397.529296875, 34.63688659668],
+    "viewangles": [-20.001291275024, 173.92237854004],
+    "grenade": {
+      "run": 9,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["van3", "Truck (far)"],
+    "weapon": "weapon_molotov",
+    "position": [-8098.3525390625, 6828.259765625, 35.166549682617],
+    "viewangles": [-21.400857925415, 4.3959589004517],
+    "grenade": {
+      "run": 32,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["boat1", "trash full dmg"],
+    "weapon": "weapon_molotov",
+    "position": [-7046.236328125, 6301.9912109375, 33.601867675781],
+    "viewangles": [-12.304356575012, 111.99309539795],
+    "grenade": {
+      "run": 2,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["boat2", "trash best?"],
+    "weapon": "weapon_molotov",
+    "position": [-6991.3881835938, 6322.49609375, 32.460586547852],
+    "viewangles": [-11.024132728577, 116.35520172119],
+    "grenade": {
+      "run": 4,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["van3", "site bottom"],
+    "weapon": "weapon_hegrenade",
+    "position": [-8080.4731445313, 6829.9375, 34.058837890625],
+    "viewangles": [-11.137253761292, 1.1648979187012],
+    "grenade": {
+      "run": 5,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["van4", "site fd top"],
+    "description": "-58",
+    "weapon": "weapon_hegrenade",
+    "position": [-8115.5717773438, 6794.6279296875, 36.261489868164],
+    "viewangles": [-12.891633987427, 5.4320893287659],
+    "grenade": {
+      "run": 3,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["truck1", "toe fuck nade"],
+    "weapon": "weapon_molotov",
+    "position": [-7120.6186523438, 7153.6630859375, 53.730056762695],
+    "viewangles": [-17.18417930603, -157.19453430176]
+  },
+  {
+    "name": ["t1", "car left"],
+    "weapon": "weapon_hegrenade",
+    "position": [-7111.7431640625, 7151.875, 51.358322143555],
+    "viewangles": [-15.499996185303, -156.80143737793]
+  },
+  {
+    "name": ["Unnamed", "van left"],
+    "weapon": "weapon_molotov",
+    "position": [-6944.9926757813, 7195.9658203125, 72.03125],
+    "viewangles": [-16.390535354614, -156.57597351074]
+  },
+  {
+    "name": ["t2", "ice"],
+    "description": "jumping",
+    "weapon": "weapon_molotov",
+    "position": [-7070.9775390625, 7136.490234375, 32.03125],
+    "viewangles": [7.2438344955444, -167.52293395996],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["t_car1", "boat"],
+    "description": "ducking",
+    "weapon": "weapon_molotov",
+    "position": [-6169.2568359375, 7110.1142578125, 34.03125],
+    "viewangles": [-22.595050811768, -147.50048828125],
+    "duck": true
+  },
+  {
+    "name": ["yacht1", "truck 1w"],
+    "weapon": "weapon_molotov",
+    "position": [-5711.2299804688, 6857.3388671875, 32.03125],
+    "viewangles": [-20.719730377197, 171.55848693848],
+    "grenade": {
+      "run": 6,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["yacht1", "1w box"],
+    "weapon": "weapon_molotov",
+    "position": [-5711.2426757813, 6857.3388671875, 32.03125],
+    "viewangles": [-11.456875801086, 179.62545776367],
+    "grenade": {
+      "delay": 12,
+      "jump": true
+    },
+    "duck": true
+  },
+  {
+    "name": ["car1", "behind truck"],
+    "weapon": "weapon_molotov",
+    "position": [-5845.365234375, 6998.140625, 31.410835266113],
+    "viewangles": [-19.983577728271, 170.93887329102],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["awdawd", "site fakeduck"],
+    "weapon": "weapon_molotov",
+    "position": [-5979.5239257813, 7049.7749023438, 31.541961669922],
+    "viewangles": [-15.457100868225, -172.98390197754]
+  },
+  {
+    "name": ["dwadwda", "truck"],
+    "weapon": "weapon_molotov",
+    "position": [-6089.5712890625, 6964.388671875, 28.480163574219],
+    "viewangles": [-20.035617828369, 170.52355957031]
+  },
+  {
+    "name": ["Unnamed", "Deep boiler [safe]"],
+    "weapon": "weapon_molotov",
+    "position": [-6675.85546875, 6160.0610351563, 33.532745361328],
+    "viewangles": [-7.7729592323303, 159.58485412598],
+    "grenade": {
+      "run": 23,
+      "run_yaw": 32,
+      "delay": 3,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Ice"],
+    "weapon": "weapon_molotov",
+    "position": [-6931.90625, 6161.3623046875, 32.03125],
+    "viewangles": [-21.51717376709, 150.49560546875],
+    "grenade": {
+      "run": 6,
+      "recovery_yaw": 0,
+      "delay": 13,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Boiler max dmg"],
+    "weapon": "weapon_hegrenade",
+    "position": [-7111.0678710938, 7079.3256835938, 75.287406921387],
+    "viewangles": [-13.657965660095, -161.80581665039],
+    "grenade": {
+      "run": 5,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Van right inbetween"],
+    "weapon": "weapon_hegrenade",
+    "position": [-6601.2338867188, 6962.61328125, 31.560211181641],
+    "viewangles": [-11.389399528503, -177.52102661133],
+    "grenade": {
+      "run": 12,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Van right close"],
+    "weapon": "weapon_hegrenade",
+    "position": [-6601.216796875, 6962.607421875, 31.560211181641],
+    "viewangles": [-5.9444346427917, -178.67601013184],
+    "grenade": {
+      "run": 6,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Truck 1w"],
+    "weapon": "weapon_molotov",
+    "position": [-5648.0200195313, 6839.1538085938, 32.03125],
+    "viewangles": [-23.992933273315, 168.43368530273],
+    "grenade": {
+      "run": 13,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Boat low dmg"],
+    "weapon": "weapon_hegrenade",
+    "position": [-8045.5600585938, 6853.9028320313, 32.03125],
+    "viewangles": [-25.08592414856, -15.854978561401],
+    "grenade": {
+      "run": 12,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "boat"],
+    "weapon": "weapon_molotov",
+    "position": [-7848.1459960938, 6519.890625, 40.381050109863],
+    "viewangles": [-25.787395477295, -34.883491516113],
+    "grenade": {
+      "run": 4,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "boat"],
+    "description": "30 dmg",
+    "weapon": "weapon_hegrenade",
+    "position": [-7916.50390625, 6556.9516601563, 37.831604003906],
+    "viewangles": [-28.27321434021, -33.645160675049],
+    "grenade": {
+      "run": 29,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Truck head [site]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-8431.349609375, 6640.0288085938, 55.990783691406],
+    "viewangles": [-18.845760345459, 18.449281692505],
+    "grenade": {
+      "run": 3,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Normal plant spot"],
+    "weapon": "weapon_hegrenade",
+    "position": [-8559.85546875, 6640.0336914063, 64.022315979004],
+    "viewangles": [-14.005751609802, 7.509418964386],
+    "grenade": {
+      "run": 33,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Plant \/ Bomba \/ Truck"],
+    "weapon": "weapon_molotov",
+    "position": [-8331.0859375, 6902.748046875, 45.830627441406],
+    "viewangles": [-15.777787208557, 8.8531875610352],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Unnamed", "Market"],
+    "weapon": "weapon_molotov",
+    "position": [-7371.2329101563, 7147.513671875, 33.046226501465],
+    "viewangles": [-37.086910247803, -29.424816131592],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["Unnamed", "Ice"],
+    "weapon": "weapon_molotov",
+    "position": [-6550.2841796875, 6161.6225585938, 32.03125],
+    "viewangles": [-10.779872894287, 156.78405761719],
+    "grenade": {
+      "run": 16,
+      "delay": 7,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Car [Full]"],
+    "weapon": "weapon_molotov",
+    "position": [-6550.3442382813, 6161.6567382813, 32.03125],
+    "viewangles": [-32.945114135742, 152.80659484863],
+    "grenade": {
+      "run": 17,
+      "delay": 21,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Boiler"],
+    "weapon": "weapon_molotov",
+    "position": [-6401.0698242188, 6327.0229492188, 40.03125],
+    "viewangles": [-1.8170046806335, 171.79374694824],
+    "grenade": {
+      "run": 42,
+      "recovery_jump": true,
+      "recovery_yaw": 60,
+      "jump": true
+    }
+  }
+]

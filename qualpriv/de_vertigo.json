@@ -1,1 +1,1399 @@
-
+[
+  {
+    "name": ["box1", "CT [Rush]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1765.6740722656, 19.305206298828, 11776.03125],
+    "viewangles": [5.4770212173462, 7.8491764068604],
+    "grenade": {
+      "run": 23,
+      "run_yaw": 138,
+      "delay": 7,
+      "recovery_yaw": -85,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["box1", "CT [Rush]"],
+    "weapon": "weapon_molotov",
+    "position": [-1765.6740722656, 19.305206298828, 11776.03125],
+    "viewangles": [5.4770212173462, 7.8491764068604],
+    "grenade": {
+      "run": 23,
+      "run_yaw": 138,
+      "delay": 7,
+      "recovery_yaw": -85,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CT"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1793.5939941406, -69.959167480469, 11776.03125],
+    "viewangles": [3.0288660526276, 2.3550043106079],
+    "grenade": {
+      "run": 18,
+      "run_yaw": 112,
+      "delay": 8,
+      "recovery_yaw": 0,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Wall"],
+    "weapon": "weapon_molotov",
+    "position": [-2082.7548828125, 21.294713973999, 11552.03125],
+    "viewangles": [-33.997589111328, 148.98143005371],
+    "grenade": {
+      "run": 11,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["spot11_1", "Sandbags"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1569.0263671875, 831.95166015625, 11787.986328125],
+    "viewangles": [-22.271053314209, -155.11689758301],
+    "grenade": {
+      "run": 8,
+      "delay": 23,
+      "jump": true,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["mid3", "CT [Slow]"],
+    "weapon": "weapon_molotov",
+    "position": [-1832.1343994141, 52.740325927734, 11776.03125],
+    "viewangles": [-5.7961549758911, 24.752758026123],
+    "grenade": {
+      "run": 16,
+      "run_yaw": 180,
+      "run_speed": true,
+      "delay": 18,
+      "jump": true
+    }
+  },
+  {
+    "name": ["spot10_1", "3D"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1476.1448974609, 947.18402099609, 11776.03125],
+    "viewangles": [-49.577476501465, -176.1513671875],
+    "grenade": {
+      "delay": 32,
+      "jump": true
+    }
+  },
+  {
+    "name": ["spot12_1", "Behind Box"],
+    "weapon": "weapon_molotov",
+    "position": [-1509.8137207031, 92.24925994873, 11776.03125],
+    "viewangles": [5.2247295379639, -174.03248596191],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["ct_spawn3", "Barrels \/ Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-1128.267578125, 444.26229858398, 11777.03125],
+    "viewangles": [-20.496360778809, -116.96244812012]
+  },
+  {
+    "name": ["ct_spawn", "Barrels \/ Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-1155.3503417969, 401.60150146484, 11776.03125],
+    "viewangles": [-23.385154724121, -115.05815124512]
+  },
+  {
+    "name": ["ct_spot2", "Sandbags"],
+    "weapon": "weapon_molotov",
+    "position": [-1312.4000244141, 946.30975341797, 11776.03125],
+    "viewangles": [-18.152616500854, -156.09895324707]
+  },
+  {
+    "name": ["ct_spot1", "Mid"],
+    "weapon": "weapon_molotov",
+    "position": [-1224.9302978516, 988.93896484375, 11776.03125],
+    "viewangles": [-27.61093711853, -122.34419250488],
+    "grenade": {
+      "delay": 25,
+      "jump": true
+    }
+  },
+  {
+    "name": ["TopSandbags", "Electric [Unsafe \/ Static]"],
+    "weapon": "weapon_molotov",
+    "position": [-1403.1306152344, 386.48733520508, 11837.03125],
+    "viewangles": [-17.879737854004, 123.11505126953]
+  },
+  {
+    "name": ["ct_spawn2", "Vents"],
+    "weapon": "weapon_molotov",
+    "position": [-1165.3249511719, 842.50750732422, 11776.03125],
+    "viewangles": [-31.687902450562, -179.29917907715],
+    "grenade": {
+      "run": 19,
+      "run_yaw": 180,
+      "run_speed": true,
+      "delay": 25,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ct_spawn1", "Box"],
+    "weapon": "weapon_molotov",
+    "position": [-931.86462402344, 778.26470947266, 11776.03125],
+    "viewangles": [-40.268829345703, -142.85273742676],
+    "grenade": {
+      "strength": 0.5,
+      "run": 4
+    }
+  },
+  {
+    "name": ["ct_spawn1", "2D"],
+    "weapon": "weapon_molotov",
+    "position": [-931.82006835938, 778.29138183594, 11776.03125],
+    "viewangles": [-22.700408935547, -176.87219238281],
+    "grenade": {
+      "run": 5,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["ct_spawn1", "Wall"],
+    "weapon": "weapon_molotov",
+    "position": [-931.80352783203, 778.29437255859, 11776.03125],
+    "viewangles": [-22.186853408813, -168.85801696777],
+    "grenade": {
+      "run": 5,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["ct_spawn1", "Electric"],
+    "weapon": "weapon_molotov",
+    "position": [-931.81591796875, 778.29193115234, 11776.03125],
+    "viewangles": [-20.517797470093, 179.87651062012]
+  },
+  {
+    "name": ["CT_spawn1", "Electric [Lethal]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-931.79364013672, 778.29138183594, 11776.03125],
+    "viewangles": [-25.803253173828, 179.42784118652],
+    "grenade": {
+      "run": 5,
+      "delay": 21,
+      "jump": true,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["BarrelsBag", "Walkway \/ Sandbags"],
+    "weapon": "weapon_molotov",
+    "position": [-1386.0288085938, 407.99954223633, 11776.03125],
+    "viewangles": [-16.392753601074, 179.51304626465]
+  },
+  {
+    "name": ["spot10_1", "Wall"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1476.0522460938, 947.17492675781, 11776.03125],
+    "viewangles": [-23.566650390625, -144.7791595459],
+    "grenade": {
+      "delay": 21,
+      "jump": true
+    }
+  },
+  {
+    "name": ["spot10_1", "Wall"],
+    "weapon": "weapon_molotov",
+    "position": [-1466.8745117188, 969.53936767578, 11776.03125],
+    "viewangles": [-17.871036529541, -146.07098388672],
+    "grenade": {
+      "delay": 18,
+      "jump": true
+    }
+  },
+  {
+    "name": ["spot10_1", "Prevent Ramp \/ Anti-Push"],
+    "weapon": "weapon_molotov",
+    "position": [-1466.9228515625, 969.51153564453, 11776.03125],
+    "viewangles": [-27.136602401733, -144.69929504395],
+    "grenade": {
+      "delay": 22,
+      "jump": true
+    }
+  },
+  {
+    "name": ["spot10_1", "Sandbags"],
+    "weapon": "weapon_molotov",
+    "position": [-1466.8870849609, 969.54632568359, 11776.03125],
+    "viewangles": [-17.336029052734, -151.27752685547],
+    "grenade": {
+      "delay": 16,
+      "jump": true
+    }
+  },
+  {
+    "name": ["spot10_1", "3D"],
+    "weapon": "weapon_molotov",
+    "position": [-1466.8937988281, 969.53265380859, 11776.03125],
+    "viewangles": [-26.662456512451, -171.36903381348],
+    "grenade": {
+      "run": 20,
+      "delay": 2,
+      "jump": true,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["spot10_1", "2D"],
+    "weapon": "weapon_molotov",
+    "position": [-1466.9140625, 969.52978515625, 11776.03125],
+    "viewangles": [-31.046056747437, -145.25439453125],
+    "grenade": {
+      "delay": 27,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Walkway", "Electric"],
+    "weapon": "weapon_hegrenade",
+    "position": [-2646.2319335938, 501.42391967773, 11778.03125],
+    "viewangles": [-18.152950286865, 13.847970962524],
+    "grenade": {
+      "delay": 18,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Walkway", "Electric"],
+    "weapon": "weapon_molotov",
+    "position": [-2660.8962402344, 498.30285644531, 11778.03125],
+    "viewangles": [-34.341735839844, 11.219924926758],
+    "grenade": {
+      "delay": 30,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Sandbags1", "Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-2471.958984375, 514.01519775391, 11744.03125],
+    "viewangles": [-12.433923721313, -76.19896697998],
+    "duck": true
+  },
+  {
+    "name": ["Sandbags1", "Pit"],
+    "weapon": "weapon_molotov",
+    "position": [-2471.9677734375, 513.99951171875, 11744.03125],
+    "viewangles": [-6.1612882614136, -93.528671264648],
+    "duck": true
+  },
+  {
+    "name": ["BehindRamp", "Balcony"],
+    "weapon": "weapon_molotov",
+    "position": [-1956.0074462891, 64.51530456543, 11552.03125],
+    "viewangles": [-21.691070556641, 167.77282714844],
+    "duck": true
+  },
+  {
+    "name": ["spot11", "Wall \/ 2D"],
+    "weapon": "weapon_molotov",
+    "position": [-2249.5439453125, 0.72758972644806, 11552.03125],
+    "viewangles": [-34.65869140625, 93.199157714844],
+    "grenade": {
+      "run": 5,
+      "run_yaw": 179,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["UndeRamp", "Walkway \/ 2D"],
+    "weapon": "weapon_molotov",
+    "position": [-2160.7604980469, -19.056186676025, 11552.03125],
+    "viewangles": [-31.34285736084, 118.43798828125],
+    "grenade": {
+      "run": 22,
+      "run_yaw": 180,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["MidRamp", "3D [Unsafe]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-2270.0974121094, -223.76493835449, 11627.071289063],
+    "viewangles": [-19.853746414185, 87.550743103027],
+    "grenade": {
+      "run": 14,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["WallBack", "Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-2102.5197753906, 668.72644042969, 11776.03125],
+    "viewangles": [-15.98868560791, -101.45036315918],
+    "grenade": {
+      "run": 9,
+      "run_yaw": 180,
+      "run_speed": true,
+      "delay": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ElectricClose", "Box"],
+    "weapon": "weapon_molotov",
+    "position": [-1750.6447753906, 754.81890869141, 11776.03125],
+    "viewangles": [-3.7389342784882, -33.170219421387],
+    "grenade": {
+      "run": 20,
+      "recovery_jump": true,
+      "recovery_yaw": -160,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ElectricClose", "Sandbags"],
+    "weapon": "weapon_molotov",
+    "position": [-1750.6633300781, 754.82739257813, 11776.03125],
+    "viewangles": [-14.245985031128, -154.77920532227],
+    "grenade": {
+      "run": 13,
+      "run_yaw": 180,
+      "delay": 14,
+      "jump": true
+    }
+  },
+  {
+    "name": ["spot10", "Walkway"],
+    "weapon": "weapon_molotov",
+    "position": [-1443.8040771484, 881.75872802734, 11776.03125],
+    "viewangles": [-16.25238609314, -165.28535461426]
+  },
+  {
+    "name": ["ElectricClose", "3D"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1765.1955566406, 746.63305664063, 11776.03125],
+    "viewangles": [-19.188093185425, -125.16819763184],
+    "grenade": {
+      "run": 10,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["ElectricClose", "Wall"],
+    "weapon": "weapon_molotov",
+    "position": [-1750.6588134766, 754.83447265625, 11776.03125],
+    "viewangles": [-10.381017684937, -148.4305267334],
+    "grenade": {
+      "run": 15,
+      "run_yaw": 180,
+      "delay": 13,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ElectricClose", "3D \/ Triple"],
+    "weapon": "weapon_molotov",
+    "position": [-1750.6678466797, 754.8330078125, 11776.03125],
+    "viewangles": [-19.631580352783, -124.3314666748],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["Electric", "2D [Max]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1688.2585449219, 761.83172607422, 11776.03125],
+    "viewangles": [-28.375230789185, -172.23016357422],
+    "grenade": {
+      "run": 15,
+      "run_yaw": 180,
+      "run_speed": true,
+      "delay": 26,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Electric", "2D"],
+    "weapon": "weapon_molotov",
+    "position": [-1688.0240478516, 761.41455078125, 11776.03125],
+    "viewangles": [-6.4314255714417, -147.6579284668]
+  },
+  {
+    "name": ["MiniRamp", "CT"],
+    "weapon": "weapon_molotov",
+    "position": [-1585.6364746094, 438.72183227539, 11776.03125],
+    "viewangles": [-30.258720397949, 1.9822081327438]
+  },
+  {
+    "name": ["MiniRamp", "CT"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1585.6390380859, 437.89709472656, 11776.03125],
+    "viewangles": [-36.491592407227, 3.1703262329102]
+  },
+  {
+    "name": ["BarrelsBags", "CT Spot"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1386.017578125, 408.00891113281, 11776.03125],
+    "viewangles": [-16.89898109436, 88.111785888672]
+  },
+  {
+    "name": ["BarrelsBags", "CT Spot"],
+    "weapon": "weapon_molotov",
+    "position": [-1386.0181884766, 407.99172973633, 11776.03125],
+    "viewangles": [-16.89898109436, 88.111785888672]
+  },
+  {
+    "name": ["Ramp", "Wall"],
+    "weapon": "weapon_molotov",
+    "position": [-2215.6755371094, -99.88550567627, 11585.470703125],
+    "viewangles": [-49.803104400635, 82.263931274414],
+    "grenade": {
+      "run": 4,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Carboard", "Box [Crouch]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1488.6159667969, 673.5673828125, 11840.861328125],
+    "viewangles": [-16.357067108154, -109.09107208252],
+    "duck": true
+  },
+  {
+    "name": ["Cones", "Box"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1406.2556152344, 790.94470214844, 11776.03125],
+    "viewangles": [-11.765665054321, -112.8839263916]
+  },
+  {
+    "name": ["T Spawn1", "Carboard"],
+    "weapon": "weapon_hegrenade",
+    "position": [-2094.1711425781, -656.4599609375, 11776.03125],
+    "viewangles": [3.5820822715759, 46.852039337158],
+    "grenade": {
+      "run": 26,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Spawn", "Box \/ Movement"],
+    "weapon": "weapon_hegrenade",
+    "position": [-2024.9719238281, -703.05523681641, 11776.03125],
+    "viewangles": [-0.023811405524611, 73.527587890625],
+    "grenade": {
+      "run": 26,
+      "recovery_jump": true,
+      "recovery_yaw": -82,
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Spawn", "Carboard"],
+    "weapon": "weapon_molotov",
+    "position": [-1898.6491699219, -654.99047851563, 11776.03125],
+    "viewangles": [-21.32773399353, 98.515174865723]
+  },
+  {
+    "name": ["T Walkway", "Box"],
+    "weapon": "weapon_molotov",
+    "position": [-1924.0118408203, -557.95977783203, 11776.03125],
+    "viewangles": [-26.978414535522, 86.451591491699]
+  },
+  {
+    "name": ["T Walkway", "Carboard"],
+    "weapon": "weapon_molotov",
+    "position": [-1924.0112304688, -557.95178222656, 11776.03125],
+    "viewangles": [-30.584243774414, 88.083480834961]
+  },
+  {
+    "name": ["CT Spawn", "Mid [Unsafe]"],
+    "weapon": "weapon_molotov",
+    "position": [-1155.3282470703, 401.64572143555, 11776.03125],
+    "viewangles": [-2.6910383701324, -174.83200073242],
+    "grenade": {
+      "run": 16,
+      "run_yaw": 55,
+      "recovery_yaw": -160,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["CT Spawn", "Mid [Unsafe]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1155.3687744141, 401.62542724609, 11776.03125],
+    "viewangles": [-2.9328978061676, -174.06242370605],
+    "grenade": {
+      "run": 14,
+      "run_yaw": 55,
+      "recovery_yaw": -130,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["CT Spawn", "Mid [Unsafe]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1094.9049072266, 399.67538452148, 11776.03125],
+    "viewangles": [-1.2178585529327, -158.75930786133],
+    "grenade": {
+      "run": 15,
+      "recovery_yaw": -120,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["CT Spawn", "Mid [Unsafe]"],
+    "weapon": "weapon_molotov",
+    "position": [-1094.8889160156, 399.68161010742, 11776.03125],
+    "viewangles": [-1.2178585529327, -158.75930786133],
+    "grenade": {
+      "run": 19,
+      "recovery_yaw": -90,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["behindWall", "Pit \/ Sandbags"],
+    "weapon": "weapon_molotov",
+    "position": [-2102.5178222656, 668.73620605469, 11776.03125],
+    "viewangles": [-16.586950302124, -113.99691009521],
+    "grenade": {
+      "run": 19,
+      "run_yaw": 180,
+      "delay": 11,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["behind3d", "Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-2060.9799804688, 962.46948242188, 11744.03125],
+    "viewangles": [-17.117523193359, -100.76218414307]
+  },
+  {
+    "name": ["behind3d", "Pit \/ Sandbags"],
+    "weapon": "weapon_molotov",
+    "position": [-2060.9829101563, 962.45465087891, 11744.03125],
+    "viewangles": [-13.566152572632, -111.3938293457]
+  },
+  {
+    "name": ["2D", "Pit \/ Sandbags"],
+    "weapon": "weapon_molotov",
+    "position": [-2339.3278808594, 743.45648193359, 11797.03125],
+    "viewangles": [-4.4557194709778, -101.62265777588],
+    "duck": true
+  },
+  {
+    "name": ["2D", "Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-2339.3288574219, 743.43823242188, 11797.03125],
+    "viewangles": [-7.5119361877441, -86.473205566406],
+    "duck": true
+  },
+  {
+    "name": ["behind2D", "Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-2340.8522949219, 836.53845214844, 11744.03125],
+    "viewangles": [-14.064122200012, -85.659690856934]
+  },
+  {
+    "name": ["behind2d", "Pit \/ Sandbags"],
+    "weapon": "weapon_molotov",
+    "position": [-2311.3374023438, 836.78936767578, 11744.03125],
+    "viewangles": [-10.216327667236, -101.42488861084],
+    "grenade": {
+      "run": 7,
+      "run_yaw": 180,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Behind Wall", "3D"],
+    "weapon": "weapon_molotov",
+    "position": [-2179.3549804688, 281.35968017578, 11776.03125],
+    "viewangles": [-18.630466461182, 86.079177856445],
+    "grenade": {
+      "run": 15,
+      "run_yaw": 179
+    }
+  },
+  {
+    "name": ["Mid", "Cones + Barrels"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1792.998046875, -81.278213500977, 11776.03125],
+    "viewangles": [-19.642534255981, 55.038505554199]
+  },
+  {
+    "name": ["Mid", "Barrels"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1792.9908447266, -81.256324768066, 11776.03125],
+    "viewangles": [-24.469594955444, 65.324378967285]
+  },
+  {
+    "name": ["Mid", "Barrels"],
+    "weapon": "weapon_molotov",
+    "position": [-1816.7926025391, -117.43535614014, 11776.03125],
+    "viewangles": [-24.02276802063, 63.404663085938]
+  },
+  {
+    "name": ["Mid", "Electric"],
+    "weapon": "weapon_molotov",
+    "position": [-1816.7808837891, -117.4243850708, 11776.03125],
+    "viewangles": [-33.733013153076, 90.126335144043],
+    "grenade": {
+      "run": 50,
+      "run_yaw": 179
+    },
+    "duck": true
+  },
+  {
+    "name": ["Mid20", "2D"],
+    "weapon": "weapon_molotov",
+    "position": [-1602.7490234375, -139.96083068848, 11776.03125],
+    "viewangles": [-17.923318862915, 131.97906494141]
+  },
+  {
+    "name": ["Mid20", "Behind Walkway"],
+    "weapon": "weapon_molotov",
+    "position": [-1602.7281494141, -139.98446655273, 11776.03125],
+    "viewangles": [-14.559244155884, 138.66784667969]
+  },
+  {
+    "name": ["Mid5", "Barrels"],
+    "weapon": "weapon_molotov",
+    "position": [-1541.8704833984, -138.88133239746, 11776.03125],
+    "viewangles": [-9.436206817627, 151.64213562012],
+    "grenade": {
+      "run": 35,
+      "recovery_yaw": -160,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Cones", "Behind Box \/ Mid"],
+    "weapon": "weapon_molotov",
+    "position": [-1394.0148925781, 753.04089355469, 11776.03125],
+    "viewangles": [-25.043518066406, -116.96267700195],
+    "duck": true
+  },
+  {
+    "name": ["Cones UP", "Behind Box"],
+    "weapon": "weapon_molotov",
+    "position": [-1394.0266113281, 748.27954101563, 11819.03125],
+    "viewangles": [-20.624021530151, -117.09464263916],
+    "duck": true
+  },
+  {
+    "name": ["Mid1", "Barrels [Low Spread]"],
+    "weapon": "weapon_molotov",
+    "position": [-1705.6221923828, -148.48147583008, 11776.03125],
+    "viewangles": [-26.023025512695, 80.287002563477]
+  },
+  {
+    "name": ["Mid", "Behind Walkway"],
+    "weapon": "weapon_molotov",
+    "position": [-1779.4774169922, -46.963516235352, 11776.03125],
+    "viewangles": [-16.153701782227, 132.42390441895],
+    "grenade": {
+      "run": 1,
+      "run_yaw": 180,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Mid", "CT"],
+    "weapon": "weapon_molotov",
+    "position": [-1779.4241943359, -46.969505310059, 11776.03125],
+    "viewangles": [-14.513318061829, 48.657550811768],
+    "grenade": {
+      "delay": 15,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Mid", "Wall \/ 2D"],
+    "weapon": "weapon_molotov",
+    "position": [-1779.4655761719, -46.969947814941, 11776.03125],
+    "viewangles": [-25.106767654419, 123.31510925293],
+    "duck": true
+  },
+  {
+    "name": ["Mid", "Sandbags"],
+    "weapon": "weapon_molotov",
+    "position": [-1802.3271484375, -16.130657196045, 11776.03125],
+    "viewangles": [-34.333801269531, 38.753295898438]
+  },
+  {
+    "name": ["Mid", "Barrels"],
+    "weapon": "weapon_molotov",
+    "position": [-1779.4420166016, -46.991390228271, 11776.03125],
+    "viewangles": [-21.590421676636, 57.372341156006],
+    "grenade": {
+      "run": 5,
+      "run_yaw": 180,
+      "recovery_yaw": 179
+    }
+  },
+  {
+    "name": ["Mid", "Deep Barrels"],
+    "weapon": "weapon_molotov",
+    "position": [-1816.7918701172, -117.44183349609, 11776.03125],
+    "viewangles": [-18.5299949646, 55.284385681152]
+  },
+  {
+    "name": ["Walkway", "Sandbags"],
+    "weapon": "weapon_hegrenade",
+    "position": [-2527.7785644531, 656.97613525391, 11744.03125],
+    "viewangles": [14.770612716675, -54.983600616455],
+    "grenade": {
+      "run": 14,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Walkway", "Ramp \/ Box"],
+    "weapon": "weapon_hegrenade",
+    "position": [-2527.7604980469, 656.95196533203, 11744.03125],
+    "viewangles": [-2.737797498703, -59.482120513916]
+  },
+  {
+    "name": ["Walkway", "Mid [Deep]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-2527.7719726563, 656.97210693359, 11744.03125],
+    "viewangles": [-19.177129745483, -40.45202255249],
+    "grenade": {
+      "run": 8,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Walkway", "Sandbags"],
+    "weapon": "weapon_hegrenade",
+    "position": [-2530.7822265625, 738.28448486328, 11744.03125],
+    "viewangles": [6.5811762809753, -102.84647369385],
+    "grenade": {
+      "run": 6
+    }
+  },
+  {
+    "name": ["Walkway", "Sandbags"],
+    "weapon": "weapon_molotov",
+    "position": [-2530.7856445313, 738.26739501953, 11744.03125],
+    "viewangles": [6.3996624946594, -102.80860137939],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": ["Walkway", "Mid"],
+    "weapon": "weapon_molotov",
+    "position": [-2545.9375, 641.37896728516, 11744.26953125],
+    "viewangles": [-28.596788406372, -34.36499786377],
+    "grenade": {
+      "run": 2,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Walkway", "Sandbags"],
+    "weapon": "weapon_molotov",
+    "position": [-2528.5349121094, 667.25714111328, 11744.03125],
+    "viewangles": [-16.050382614136, -54.359371185303],
+    "grenade": {
+      "run": 5,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Walkway", "Ramp \/ Deep"],
+    "weapon": "weapon_molotov",
+    "position": [-2528.5266113281, 667.24450683594, 11744.03125],
+    "viewangles": [-3.8527863025665, -62.070156097412]
+  },
+  {
+    "name": ["Walkway", "Mid \/ Deep"],
+    "weapon": "weapon_molotov",
+    "position": [-2535.3376464844, 644.35797119141, 11744.03125],
+    "viewangles": [-19.102016448975, -39.078098297119]
+  },
+  {
+    "name": ["Mid", "Deep Barrels"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1875.0291748047, -162.89431762695, 11776.03125],
+    "viewangles": [-16.378910064697, 52.23070526123],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": ["mid3", "Barrels [PUSH]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1831.3503417969, -148.03700256348, 11776.03125],
+    "viewangles": [-5.3851900100708, 65.667793273926],
+    "grenade": {
+      "run": 30,
+      "recovery_jump": true,
+      "recovery_yaw": 33,
+      "jump": true
+    }
+  },
+  {
+    "name": ["mid3", "Barrels [PUSH]"],
+    "weapon": "weapon_molotov",
+    "position": [-1831.3635253906, -148.06622314453, 11776.03125],
+    "viewangles": [-5.5232706069946, 65.639526367188],
+    "grenade": {
+      "run": 30,
+      "recovery_jump": true,
+      "recovery_yaw": 40,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ctleft1", "Walkway"],
+    "weapon": "weapon_molotov",
+    "position": [-919.03131103516, 27.630855560303, 11776.03125],
+    "viewangles": [-19.48770904541, 160.24919128418],
+    "grenade": {
+      "run": 12,
+      "recovery_yaw": 125,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["ctleft1", "Triple box"],
+    "weapon": "weapon_molotov",
+    "position": [-919.05029296875, 27.647476196289, 11776.03125],
+    "viewangles": [-26.5650806427, 145.14503479004],
+    "grenade": {
+      "run": 18,
+      "recovery_yaw": 180,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["ctleft1", "2D"],
+    "weapon": "weapon_molotov",
+    "position": [-919.03784179688, 27.633260726929, 11776.03125],
+    "viewangles": [-17.745845794678, 160.81420898438],
+    "grenade": {
+      "run": 26,
+      "recovery_yaw": 133,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["asite1", "Sandbag"],
+    "weapon": "weapon_molotov",
+    "position": [-328.44515991211, -476.18307495117, 11776.03125],
+    "viewangles": [-37.579929351807, -119.62612915039]
+  },
+  {
+    "name": ["asite1", "Full Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-328.43579101563, -476.17712402344, 11776.03125],
+    "viewangles": [-13.161024093628, -147.43359375]
+  },
+  {
+    "name": ["aramp1", "Site Boxes"],
+    "weapon": "weapon_molotov",
+    "position": [-681.22198486328, -1281.4392089844, 11648.03125],
+    "viewangles": [-28.16828918457, 39.683841705322],
+    "grenade": {
+      "run": 6,
+      "recovery_yaw": 52,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["aramp2", "Fakeduck Box"],
+    "weapon": "weapon_molotov",
+    "position": [-636.8095703125, -1305.5010986328, 11654.416015625],
+    "viewangles": [-34.474555969238, 49.735813140869],
+    "grenade": {
+      "run": 4,
+      "recovery_yaw": 57
+    }
+  },
+  {
+    "name": ["aramp3", "Elevator Hold"],
+    "weapon": "weapon_molotov",
+    "position": [-774.47839355469, -1358.2053222656, 11648.03125],
+    "viewangles": [-30.173669815063, 72.69970703125]
+  },
+  {
+    "name": ["aramp4", "Site Boxes"],
+    "weapon": "weapon_molotov",
+    "position": [-587.26867675781, -1160.4094238281, 11670.938476563],
+    "viewangles": [-28.094062805176, 36.617198944092]
+  },
+  {
+    "name": ["aramp1", "Site Boxes"],
+    "weapon": "weapon_hegrenade",
+    "position": [-632.60223388672, -1216.4116210938, 11655.827148438],
+    "viewangles": [-24.590625762939, 37.848785400391],
+    "grenade": {
+      "run": 11,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["balcony", "FD box"],
+    "weapon": "weapon_hegrenade",
+    "position": [-720.73602294922, -1431.5034179688, 11776.03125],
+    "viewangles": [-17.193857192993, 59.278045654297],
+    "grenade": {
+      "run": 9,
+      "recovery_yaw": 180,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["balc", "Site Box"],
+    "weapon": "weapon_hegrenade",
+    "position": [-720.74792480469, -1431.5272216797, 11776.03125],
+    "viewangles": [-12.612447738647, 63.677322387695]
+  },
+  {
+    "name": ["ct1", "Barrels"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1117.0661621094, 459.19097900391, 11777.03125],
+    "viewangles": [-38.975402832031, 170.14738464355]
+  },
+  {
+    "name": ["ct1", "Sand + Wall"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1117.0904541016, 459.19006347656, 11777.03125],
+    "viewangles": [-46.94115447998, 177.54426574707]
+  },
+  {
+    "name": ["ct1", "Triple Box [3D]"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1117.0969238281, 459.20364379883, 11777.03125],
+    "viewangles": [-11.569242477417, 146.86616516113],
+    "grenade": {
+      "delay": 9,
+      "jump": true
+    }
+  },
+  {
+    "name": ["cones1", "Tunnel"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1394.0002441406, 738.03411865234, 11819.03125],
+    "viewangles": [-14.604020118713, -117.54148864746],
+    "grenade": {
+      "run": 9,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["mid1", "2D"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1793.0118408203, -81.220169067383, 11776.03125],
+    "viewangles": [-15.026972770691, 122.04660797119]
+  },
+  {
+    "name": ["ventshit1", "CT Wall"],
+    "weapon": "weapon_hegrenade",
+    "position": [-2060.1787109375, 670.95349121094, 11776.03125],
+    "viewangles": [-16.656251907349, 40.485813140869]
+  },
+  {
+    "name": ["Bags", "Wall \/ 2D [Rush]"],
+    "weapon": "weapon_molotov",
+    "position": [-2512.4758300781, -205.36370849609, 11620.03125],
+    "viewangles": [3.1874945163727, 67.125473022461],
+    "grenade": {
+      "run": 7,
+      "recovery_jump": true,
+      "recovery_yaw": 0,
+      "jump": true
+    },
+    "duck": true
+  },
+  {
+    "name": ["place1", "Electric [Rush]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-2336.2099609375, 360.10736083984, 11744.03125],
+    "viewangles": [-26.260606765747, 30.968616485596],
+    "grenade": {
+      "run": 11,
+      "recovery_jump": true,
+      "recovery_yaw": 28,
+      "jump": true
+    }
+  },
+  {
+    "name": ["awd", "Mid"],
+    "weapon": "weapon_molotov",
+    "position": [-2178.1635742188, 340.26712036133, 11776.03125],
+    "viewangles": [-29.01392364502, 49.601615905762],
+    "grenade": {
+      "delay": 13,
+      "jump": true
+    }
+  },
+  {
+    "name": ["awdwad", "Electric"],
+    "weapon": "weapon_molotov",
+    "position": [-2202.603515625, 439.91189575195, 11744.03125],
+    "viewangles": [-28.809537887573, 34.015926361084],
+    "grenade": {
+      "run": 13,
+      "run_yaw": 180,
+      "delay": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ljadwnjawd", "Box [Rush]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1760.1633300781, -500.37600708008, 11776.03125],
+    "viewangles": [-26.794761657715, 94.111541748047],
+    "grenade": {
+      "run": 13,
+      "recovery_jump": true,
+      "recovery_yaw": -91,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Wall"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1638.0278320313, -163.36293029785, 11776.03125],
+    "viewangles": [-16.79197883606, 127.44088745117]
+  },
+  {
+    "name": ["Unnamed", "Vents"],
+    "weapon": "weapon_molotov",
+    "position": [-1530.9471435547, 974.0888671875, 11776.03125],
+    "viewangles": [28.830074310303, -151.91780090332],
+    "grenade": {
+      "run": 23,
+      "run_yaw": -90,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Vents", "Walkway \/ Sandbags [Rush]"],
+    "weapon": "weapon_molotov",
+    "position": [-1722.6442871094, 830.72625732422, 11776.03125],
+    "viewangles": [21.472772598267, -137.11911010742],
+    "grenade": {
+      "strength": 0.5,
+      "run_yaw": -59,
+      "recovery_jump": true,
+      "recovery_yaw": 30,
+      "run": 35,
+      "jump": true
+    }
+  },
+  {
+    "name": ["s", "Sandbags \/ Walkway \/ 2D"],
+    "weapon": "weapon_molotov",
+    "position": [-1684.1921386719, 795.68920898438, 11776.03125],
+    "viewangles": [4.6187205314636, -167.12966918945],
+    "grenade": {
+      "run": 14,
+      "run_yaw": 180,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "3D"],
+    "weapon": "weapon_molotov",
+    "position": [-1639.3549804688, -175.52737426758, 11776.03125],
+    "viewangles": [1.0846229791641, 110.81632995605],
+    "grenade": {
+      "run": 1,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Wall"],
+    "weapon": "weapon_molotov",
+    "position": [-1394.0200195313, 440.11801147461, 11845.658203125],
+    "viewangles": [-10.329954147339, 178.74977111816]
+  },
+  {
+    "name": ["Vents", "Sandbags \/ Walkway [Rush]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1748.5183105469, 738.33459472656, 11776.03125],
+    "viewangles": [9.6971368789673, 170.83238220215],
+    "grenade": {
+      "strength": 0.5,
+      "run_yaw": 76,
+      "recovery_jump": true,
+      "recovery_yaw": -18,
+      "run": 23,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Wall"],
+    "weapon": "weapon_molotov",
+    "position": [-1639.3443603516, -175.5380859375, 11776.03125],
+    "viewangles": [-17.221494674683, 126.62971496582]
+  },
+  {
+    "name": ["Unnamed", "Electric"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1530.9460449219, 974.08245849609, 11776.03125],
+    "viewangles": [28.830074310303, -151.91780090332],
+    "grenade": {
+      "run": 23,
+      "run_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Electric Left"],
+    "weapon": "weapon_molotov",
+    "position": [-1108.3551025391, 720.39208984375, 11776.03125],
+    "viewangles": [-7.7017812728882, 132.02635192871],
+    "grenade": {
+      "run": 36,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Barrels \/ Mid-Ramp"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1927.3853759766, 832.77783203125, 11776.03125],
+    "viewangles": [11.477072715759, -58.377124786377],
+    "grenade": {
+      "run": 26,
+      "run_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Barrels \/ Mid-Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-1927.3911132813, 832.78717041016, 11776.03125],
+    "viewangles": [11.477072715759, -58.377124786377],
+    "grenade": {
+      "run": 26,
+      "run_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Carboard"],
+    "weapon": "weapon_molotov",
+    "position": [-1673.9565429688, -512.11901855469, 11776.03125],
+    "viewangles": [-35.589061737061, 121.23696899414],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": ["Unnamed", "Wall"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1581.9279785156, -183.69169616699, 11776.03125],
+    "viewangles": [-19.325214385986, 129.77137756348]
+  },
+  {
+    "name": ["Unnamed", "Electric [Rush]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1145.962890625, 766.17926025391, 11776.03125],
+    "viewangles": [-3.9169874191284, 136.12658691406],
+    "grenade": {
+      "run": 26,
+      "recovery_yaw": -27,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Mid Way"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-656.03100585938, -1022.2710571289, 11700.03125],
+    "viewangles": [-41.166515350342, 105.12564086914]
+  },
+  {
+    "name": ["Unnamed", "Mid"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1475.8992919922, 695.40582275391, 11776.03125],
+    "viewangles": [4.1917209625244, -108.98097229004],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Mid"],
+    "weapon": "weapon_molotov",
+    "position": [-1475.8892822266, 695.40545654297, 11776.03125],
+    "viewangles": [4.1917209625244, -108.98097229004],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CT [Rush]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1933.1314697266, -13.768265724182, 11776.03125],
+    "viewangles": [-4.6667313575745, 26.393712997437],
+    "grenade": {
+      "run": 21,
+      "recovery_yaw": 55,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Vents"],
+    "weapon": "weapon_molotov",
+    "position": [-1554.0489501953, 1012.2561645508, 11776.03125],
+    "viewangles": [-1.1821364164352, -118.17260742188],
+    "grenade": {
+      "run": 12,
+      "run_yaw": 180,
+      "delay": 6,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Vents"],
+    "weapon": "weapon_molotov",
+    "position": [-1554.1724853516, 1012.1519775391, 11776.03125],
+    "viewangles": [25.481557846069, -156.95655822754],
+    "grenade": {
+      "run": 12,
+      "run_yaw": -114,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Vents"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1554.1680908203, 1012.1533203125, 11776.03125],
+    "viewangles": [25.481557846069, -156.95655822754],
+    "grenade": {
+      "run": 12,
+      "run_yaw": -114,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CT Spot [Rush]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1591.34765625, 268.50241088867, 11776.03125],
+    "viewangles": [-12.967461585999, 76.448684692383],
+    "grenade": {
+      "run": 15,
+      "recovery_yaw": -37,
+      "delay": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CT Spot [Rush]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1307.6645507813, 231.41081237793, 11776.03125],
+    "viewangles": [3.6151492595673, 124.99582672119],
+    "grenade": {
+      "strength": 0.5,
+      "recovery_jump": true,
+      "recovery_yaw": 0,
+      "run": 30,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CT Spot [Rush]"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1299.4504394531, 175.70219421387, 11776.03125],
+    "viewangles": [7.0949926376343, 49.159408569336],
+    "grenade": {
+      "run": 29,
+      "recovery_yaw": 0,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Wall"],
+    "weapon": "weapon_molotov",
+    "position": [-1581.9268798828, -183.69305419922, 11776.03125],
+    "viewangles": [-18.286371231079, 129.5036315918]
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1423.8902587891, 694.00518798828, 11776.03125],
+    "viewangles": [6.1699070930481, -112.67942047119],
+    "grenade": {
+      "delay": 7,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Sandbags \/ Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-1312.4030761719, 946.31140136719, 11776.03125],
+    "viewangles": [-45.70051574707, -115.4571685791],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": ["Unnamed", "Sandbags \/ Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-1319.5740966797, 923.91564941406, 11776.03125],
+    "viewangles": [-48.285705566406, -111.25201416016],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": ["Unnamed", "Mini Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-1241.9693603516, 442.03329467773, 11815.03125],
+    "viewangles": [-11.152610778809, -158.10778808594],
+    "grenade": {
+      "run": 15,
+      "run_yaw": -155,
+      "delay": 5,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_molotov",
+    "position": [-1241.8333740234, 442.38662719727, 11815.03125],
+    "viewangles": [-1.1426528692245, -144.79933166504],
+    "grenade": {
+      "run": 29,
+      "run_yaw": -173,
+      "delay": 9,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Box"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1470.9703369141, 673.36950683594, 11840.916992188],
+    "viewangles": [-2.5406568050385, -108.30402374268]
+  },
+  {
+    "name": ["Unnamed", "Mid"],
+    "weapon": "weapon_molotov",
+    "position": [-1548.572265625, 662.09301757813, 11875.876953125],
+    "viewangles": [-16.692140579224, -161.86410522461],
+    "grenade": {
+      "run": 1,
+      "recovery_yaw": 180
+    }
+  }
+]

@@ -1,1 +1,99 @@
-
+[
+  {
+    "name": ["trock1", "close rock"],
+    "weapon": "weapon_molotov",
+    "position": [4245.4672851563, -3388.6442871094, -159.50134277344],
+    "viewangles": [-22.99667930603, -168.50979614258],
+    "grenade": {
+      "run": 2,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["trock1", "rock [2]"],
+    "weapon": "weapon_molotov",
+    "position": [4245.451171875, -3388.6572265625, -159.51515197754],
+    "viewangles": [-17.585733413696, -142.54650878906],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["twater1", "water [1]"],
+    "weapon": "weapon_molotov",
+    "position": [4156.822265625, -4541.1977539063, -305.96875],
+    "viewangles": [-19.143604278564, -170.49052429199],
+    "duck": true
+  },
+  {
+    "name": ["twater2", "water [1]"],
+    "weapon": "weapon_molotov",
+    "position": [4140.5537109375, -4732.9560546875, -305.96875],
+    "viewangles": [-18.53857421875, 163.44071960449],
+    "duck": true
+  },
+  {
+    "name": ["rock123", "rock [1]"],
+    "weapon": "weapon_molotov",
+    "position": [3015.7751464844, -3545.3784179688, -135.44030761719],
+    "viewangles": [-16.949504852295, -143.51635742188],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["rock123", "rock [1]"],
+    "description": "jumping",
+    "weapon": "weapon_hegrenade",
+    "position": [3038.7009277344, -3523.6225585938, -133.12077331543],
+    "viewangles": [11.452920913696, -142.36322021484],
+    "grenade": {
+      "run": 23,
+      "recovery_yaw": -60,
+      "jump": true
+    }
+  },
+  {
+    "name": ["rock321", "rock leftside"],
+    "weapon": "weapon_molotov",
+    "position": [3102.3815917969, -3467.2724609375, -129.84593200684],
+    "viewangles": [-14.583707809448, -141.70457458496],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["rock1234", "rock safe [1]"],
+    "weapon": "weapon_hegrenade",
+    "position": [3084.5961914063, -3497.5485839844, -130.59896850586],
+    "viewangles": [-11.149797439575, -142.54252624512],
+    "grenade": {
+      "run": 22,
+      "recovery_yaw": -55
+    }
+  },
+  {
+    "name": ["rock123123", "top rock [1]"],
+    "weapon": "weapon_molotov",
+    "position": [3111.8024902344, -3703.7236328125, -154.47999572754],
+    "viewangles": [-26.389738082886, 161.85763549805],
+    "grenade": {
+      "run": 9
+    }
+  },
+  {
+    "name": ["rock123123", "top rock [1]"],
+    "weapon": "weapon_hegrenade",
+    "position": [3019.251953125, -3824.8879394531, -171.92503356934],
+    "viewangles": [-23.416660308838, 155.45727539063],
+    "grenade": {
+      "run": 19
+    }
+  },
+  {
+    "name": ["rock12333123", "plant"],
+    "weapon": "weapon_molotov",
+    "position": [2620.4741210938, -3579.9289550781, -142.77207946777],
+    "viewangles": [-19.956045150757, -33.1474609375]
+  }
+]

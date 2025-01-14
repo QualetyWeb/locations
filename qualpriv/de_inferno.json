@@ -1,1 +1,1324 @@
-
+[
+  {
+    "name": ["Van5", "Truck UNSAFE"],
+    "description": "negerboll",
+    "weapon": "weapon_molotov",
+    "position": [-8120.8623046875, 6763.5751953125, 36.605560302734],
+    "viewangles": [3.8908486366272, 7.8752937316895],
+    "grenade": {
+      "run": 21,
+      "recovery_jump": true,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["t1", "close site"],
+    "weapon": "weapon_molotov",
+    "position": [1356.0002441406, 264.66287231445, 128.00260925293],
+    "viewangles": [2.9261946678162, -46.943672180176],
+    "grenade": {
+      "run": 8,
+      "recovery_yaw": 115,
+      "jump": true
+    }
+  },
+  {
+    "name": ["t1", "back site"],
+    "weapon": "weapon_molotov",
+    "position": [1356.0073242188, 264.64031982422, 128.00346374512],
+    "viewangles": [2.7184433937073, -41.436100006104],
+    "grenade": {
+      "run": 17,
+      "recovery_jump": true,
+      "recovery_yaw": 102,
+      "jump": true
+    }
+  },
+  {
+    "name": ["t2", "Default A Box[2]"],
+    "weapon": "weapon_molotov",
+    "position": [1314.0502929688, 216.02320861816, 135.82290649414],
+    "viewangles": [-29.971057891846, -1.1209344863892],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Long [2:Safe]"],
+    "weapon": "weapon_molotov",
+    "position": [1370.0112304688, 922.05798339844, 146.15145874023],
+    "viewangles": [7.3154606819153, 32.079967498779],
+    "grenade": {
+      "run": 22,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Library"],
+    "weapon": "weapon_molotov",
+    "position": [1370.0317382813, 958.32220458984, 148.03125],
+    "viewangles": [-16.757577896118, 18.380311965942],
+    "grenade": {
+      "run": 4,
+      "recovery_yaw": -111,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Under [Pit]"],
+    "weapon": "weapon_molotov",
+    "position": [2147.7924804688, 1225.8084716797, 172.1519317627],
+    "viewangles": [4.4101033210754, -89.203758239746],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Default \/ Center"],
+    "description": "Boxes",
+    "weapon": "weapon_molotov",
+    "position": [2097.2355957031, 1128.1213378906, 160.29197692871],
+    "viewangles": [-10.23659992218, -53.324192047119],
+    "grenade": {
+      "run": 16,
+      "run_yaw": 9,
+      "recovery_yaw": -54,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Site box [1]"],
+    "weapon": "weapon_molotov",
+    "position": [2096.1330566406, 1125.6226806641, 160.04386901855],
+    "viewangles": [-33.213661193848, -102.06164550781],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["awawd", "Corner [1]"],
+    "weapon": "weapon_molotov",
+    "position": [1133.2739257813, 434.64245605469, 108.68629455566],
+    "viewangles": [-37.339954376221, 58.436069488525],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["asddw", "Arch"],
+    "weapon": "weapon_molotov",
+    "position": [1133.2629394531, 434.63131713867, 108.67230224609],
+    "viewangles": [-44.612789154053, 50.852024078369],
+    "grenade": {
+      "run": 27,
+      "jump": true
+    }
+  },
+  {
+    "name": ["akwd", "Long [1]"],
+    "weapon": "weapon_molotov",
+    "position": [1133.2916259766, 434.6735534668, 108.68174743652],
+    "viewangles": [-38.998966217041, 25.101474761963],
+    "grenade": {
+      "run": 52,
+      "jump": true
+    }
+  },
+  {
+    "name": ["awdawd", "Site Box [1]"],
+    "weapon": "weapon_molotov",
+    "position": [1314.8317871094, 216.27038574219, 135.71534729004],
+    "viewangles": [-37.707908630371, 23.097215652466],
+    "grenade": {
+      "run": 15,
+      "jump": true,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["dawdaw", "Corner [2]"],
+    "weapon": "weapon_molotov",
+    "position": [1113.6838378906, 589.97583007813, 112.87419128418],
+    "viewangles": [-42.229755401611, -48.779514312744],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["dwdw", "Graveyard"],
+    "weapon": "weapon_molotov",
+    "position": [2016.1743164063, 1225.2647705078, 174.03125],
+    "viewangles": [-13.469946861267, -62.117710113525],
+    "grenade": {
+      "delay": 19,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Default Box [1]"],
+    "weapon": "weapon_molotov",
+    "position": [2108.3791503906, 1225.9940185547, 169.53877258301],
+    "viewangles": [-29.132637023926, -93.987518310547],
+    "grenade": {
+      "delay": 24,
+      "jump": true
+    }
+  },
+  {
+    "name": ["wadwa", "Short [1]"],
+    "weapon": "weapon_hegrenade",
+    "position": [2241.0363769531, 320.50323486328, 134.60464477539],
+    "viewangles": [6.6810083389282, -153.72766113281],
+    "grenade": {
+      "run": 27,
+      "run_yaw": 50,
+      "recovery_yaw": -129,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Plant [Onspot]"],
+    "weapon": "weapon_hegrenade",
+    "position": [1223.4542236328, 540.68829345703, 116.82078552246],
+    "viewangles": [-58.124935150146, -4.5142970085144],
+    "grenade": {
+      "run": 39,
+      "recovery_jump": true,
+      "recovery_yaw": 149,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Arch", "Onspot"],
+    "description": "90HP safe",
+    "weapon": "weapon_hegrenade",
+    "position": [2071.3549804688, 1143.8491210938, 161.30770874023],
+    "viewangles": [-55.381191253662, -97.04126739502],
+    "grenade": {
+      "run": 15,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Right side"],
+    "weapon": "weapon_hegrenade",
+    "position": [2097.5747070313, 1225.9658203125, 174.03125],
+    "viewangles": [-59.942485809326, -103.92176818848],
+    "grenade": {
+      "run": 20,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Right side"],
+    "weapon": "weapon_hegrenade",
+    "position": [2005.4630126953, 1225.6575927734, 174.03125],
+    "viewangles": [-75.878173828125, -96.102767944336],
+    "grenade": {
+      "run": 40,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Pit [unsafe]"],
+    "weapon": "weapon_hegrenade",
+    "position": [1431.2956542969, 221.27110290527, 130.11752319336],
+    "viewangles": [11.398500442505, -6.0689191818237],
+    "grenade": {
+      "run": 13,
+      "run_yaw": -102,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Default Box"],
+    "weapon": "weapon_hegrenade",
+    "position": [1402.0821533203, 239.19412231445, 128.44445800781],
+    "viewangles": [3.8280439376831, -41.815933227539],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "corner movement [push]"],
+    "weapon": "weapon_hegrenade",
+    "position": [1402.0708007813, 239.18426513672, 128.4401550293],
+    "viewangles": [-11.856108665466, -49.619445800781],
+    "grenade": {
+      "run": 12,
+      "recovery_yaw": 0,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "corner safe"],
+    "weapon": "weapon_hegrenade",
+    "position": [1402.0944824219, 239.19898986816, 128.44384765625],
+    "viewangles": [9.6837520599365, -47.642143249512],
+    "grenade": {
+      "run": 8,
+      "recovery_yaw": 76,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Long [1]"],
+    "weapon": "weapon_hegrenade",
+    "position": [2150.96484375, 574.39935302734, 160.03125],
+    "viewangles": [-46.465034484863, 157.93185424805],
+    "grenade": {
+      "run": 14,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Long [1]"],
+    "weapon": "weapon_molotov",
+    "position": [2237.3266601563, 601.08984375, 152.05131530762],
+    "viewangles": [-44.044910430908, 162.96673583984],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["mid", "Mid [1]"],
+    "weapon": "weapon_molotov",
+    "position": [2335.9997558594, 671.99981689453, 149.19866943359],
+    "viewangles": [-39.283996582031, -171.46412658691],
+    "grenade": {
+      "run": 21,
+      "jump": true
+    }
+  },
+  {
+    "name": ["mid", "Mid [2]"],
+    "weapon": "weapon_molotov",
+    "position": [2335.9970703125, 607.99981689453, 149.32843017578],
+    "viewangles": [-38.720016479492, -175.07208251953],
+    "grenade": {
+      "run": 16,
+      "jump": true
+    }
+  },
+  {
+    "name": ["mid", "Mid [3]"],
+    "weapon": "weapon_molotov",
+    "position": [2272.0166015625, 672.00311279297, 151.39942932129],
+    "viewangles": [-42.815998077393, -169.44020080566],
+    "grenade": {
+      "run": 18,
+      "jump": true
+    }
+  },
+  {
+    "name": ["mid", "Mid [4]"],
+    "weapon": "weapon_molotov",
+    "position": [2272.0158691406, 608.00219726563, 150.18653869629],
+    "viewangles": [-43.042015075684, -172.16796875],
+    "grenade": {
+      "run": 16,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Second Mid"],
+    "weapon": "weapon_molotov",
+    "position": [2423.5615234375, 2300.8879394531, 128.03125],
+    "viewangles": [-14.940214157104, -126.89658355713],
+    "grenade": {
+      "run": 22,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ct", "mid (R)"],
+    "weapon": "weapon_hegrenade",
+    "position": [2313.791015625, 484.76226806641, 142.00512695313],
+    "viewangles": [-45.298004150391, 157.20320129395],
+    "grenade": {
+      "run": 39,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ct", "mid"],
+    "weapon": "weapon_hegrenade",
+    "position": [2269.8227539063, 619.18505859375, 149.65017700195],
+    "viewangles": [-47.148284912109, -174.57366943359],
+    "grenade": {
+      "run": 25,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ct", "mid"],
+    "weapon": "weapon_hegrenade",
+    "position": [2340.6674804688, 571.57690429688, 147.81634521484],
+    "viewangles": [-50.274459838867, -176.21871948242],
+    "grenade": {
+      "run": 55,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ct", "mid"],
+    "weapon": "weapon_hegrenade",
+    "position": [2283.6381835938, 661.26947021484, 148.82444763184],
+    "viewangles": [-43.320232391357, -166.41084289551],
+    "grenade": {
+      "run": 20,
+      "recovery_jump": true,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ct", "mid"],
+    "weapon": "weapon_hegrenade",
+    "position": [2314.78125, 621.91534423828, 146.96705627441],
+    "viewangles": [-44.723785400391, -174.51319885254],
+    "grenade": {
+      "run": 26,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "default lethal nade"],
+    "weapon": "weapon_hegrenade",
+    "position": [2139.8603515625, 1225.9019775391, 171.78219604492],
+    "viewangles": [-3.9283196926117, -91.762634277344],
+    "grenade": {
+      "run": 1,
+      "delay": 11,
+      "jump": true
+    }
+  },
+  {
+    "name": ["long", "default box [movement]"],
+    "weapon": "weapon_hegrenade",
+    "position": [2075.7907714844, 1155.3392333984, 162.57662963867],
+    "viewangles": [3.0168542861938, -55.914756774902],
+    "grenade": {
+      "run": 41,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "default box [max dmg]"],
+    "weapon": "weapon_hegrenade",
+    "position": [2097.5290527344, 1225.9313964844, 174.03125],
+    "viewangles": [-10.825034141541, -92.325248718262],
+    "grenade": {
+      "delay": 16,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Arch", "corner hold"],
+    "weapon": "weapon_hegrenade",
+    "position": [1867.9830322266, 1383.2445068359, 160.03125],
+    "viewangles": [-0.51880323886871, -147.13279724121],
+    "grenade": {
+      "run": 10,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "corner hold (full)"],
+    "weapon": "weapon_molotov",
+    "position": [1867.6275634766, 1401.8812255859, 160.03125],
+    "viewangles": [-27.860683441162, -141.77554321289],
+    "grenade": {
+      "run": 11,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Library"],
+    "weapon": "weapon_molotov",
+    "position": [1778.2716064453, 1330.1333007813, 160.03125],
+    "viewangles": [-18.576816558838, -43.245620727539],
+    "grenade": {
+      "run": 10,
+      "recovery_yaw": 88,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "library movement [unsafe]"],
+    "weapon": "weapon_hegrenade",
+    "position": [1825.076171875, 1278.4486083984, 160.03125],
+    "viewangles": [-2.8599331378937, 6.5745053291321],
+    "grenade": {
+      "run": 9,
+      "run_yaw": -70,
+      "recovery_yaw": 180,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "library movement [unsafe]"],
+    "weapon": "weapon_molotov",
+    "position": [1825.0578613281, 1278.4465332031, 160.03125],
+    "viewangles": [-2.8599331378937, 6.5745053291321],
+    "grenade": {
+      "run": 9,
+      "run_yaw": -70,
+      "recovery_yaw": 180,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Onspot"],
+    "weapon": "weapon_molotov",
+    "position": [1813.5815429688, 35.998985290527, 128.06553649902],
+    "viewangles": [-14.288269042969, 41.579196929932],
+    "grenade": {
+      "run": 2,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Onspot"],
+    "weapon": "weapon_hegrenade",
+    "position": [1813.5760498047, 35.968013763428, 128.06553649902],
+    "viewangles": [-14.207967758179, 42.984436035156],
+    "grenade": {
+      "run": 2,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Site [Zzz]"],
+    "weapon": "weapon_hegrenade",
+    "position": [1813.5762939453, 35.964469909668, 128.06646728516],
+    "viewangles": [-9.0200023651123, 44.110427856445]
+  },
+  {
+    "name": ["Unnamed", "Long [2:Safe]"],
+    "weapon": "weapon_hegrenade",
+    "position": [1370.0277099609, 922.05798339844, 146.15145874023],
+    "viewangles": [7.3154606819153, 32.079967498779],
+    "grenade": {
+      "run": 22,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Graveyard UPPER"],
+    "weapon": "weapon_molotov",
+    "position": [2028.2740478516, 1158.3914794922, 160.20439147949],
+    "viewangles": [-6.2695817947388, -56.054500579834],
+    "grenade": {
+      "strength": 0.5,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Graveyard UPPER"],
+    "weapon": "weapon_hegrenade",
+    "position": [1986.9172363281, 1225.9873046875, 174.03125],
+    "viewangles": [-49.334720611572, -56.158962249756],
+    "grenade": {
+      "run": 40,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Graveyard UPPER"],
+    "weapon": "weapon_molotov",
+    "position": [1986.9201660156, 1225.9836425781, 174.03125],
+    "viewangles": [-49.334720611572, -56.158962249756],
+    "grenade": {
+      "run": 40,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Dark [team assist]"],
+    "weapon": "weapon_smokegrenade",
+    "position": [2597.1691894531, 1197.4959716797, 160.03126525879],
+    "viewangles": [-4.6199984550476, -96.974784851074],
+    "grenade": {
+      "run": 30,
+      "run_yaw": -90,
+      "recovery_yaw": 180,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Dark [Team assist]"],
+    "weapon": "weapon_smokegrenade",
+    "position": [2542.1711425781, 1280.9398193359, 160.03125],
+    "viewangles": [-1.0450636148453, -121.72566986084],
+    "grenade": {
+      "run": 4,
+      "recovery_yaw": 90,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Balcony BEST"],
+    "weapon": "weapon_molotov",
+    "position": [1163.7785644531, 564.99127197266, 114.40121459961],
+    "viewangles": [-32.530895233154, -40.81534576416],
+    "grenade": {
+      "run": 16,
+      "recovery_jump": true,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Onspot"],
+    "weapon": "weapon_molotov",
+    "position": [1407.2021484375, 14.046874046326, 130.03125],
+    "viewangles": [-37.502380371094, 37.526859283447],
+    "grenade": {
+      "run": 4,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Long teamhelp"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1999.6893310547, 480.73071289063, 160.03125],
+    "viewangles": [-5.7240862846375, 35.586502075195],
+    "duck": true
+  },
+  {
+    "name": ["Unnamed", "Mid \/ Long"],
+    "weapon": "weapon_molotov",
+    "position": [1867.96875, 1447.9566650391, 160.03125],
+    "viewangles": [-47.414134979248, -135.26792907715],
+    "grenade": {
+      "run": 11,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Topmid"],
+    "weapon": "weapon_molotov",
+    "position": [1301.9674072266, 1247.9832763672, 160.03125],
+    "viewangles": [-12.379159927368, -55.708194732666],
+    "grenade": {
+      "run": 3,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Appartments Mid"],
+    "weapon": "weapon_molotov",
+    "position": [1331.5892333984, 1230.7722167969, 162.82695007324],
+    "viewangles": [7.5308012962341, -69.457786560059],
+    "grenade": {
+      "run": 6,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Site boxes"],
+    "weapon": "weapon_molotov",
+    "position": [1291.0256347656, 1247.9775390625, 160.03125],
+    "viewangles": [-40.759204864502, -39.532070159912],
+    "grenade": {
+      "run": 24,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Arch"],
+    "weapon": "weapon_molotov",
+    "position": [1374.7602539063, 777.12091064453, 138.98063659668],
+    "viewangles": [-33.389289855957, 48.578125],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Balcony"],
+    "weapon": "weapon_molotov",
+    "position": [2227.2983398438, 1073.9254150391, 158.14559936523],
+    "viewangles": [-0.44420349597931, -98.711929321289],
+    "grenade": {
+      "run": 1,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Balcony"],
+    "weapon": "weapon_molotov",
+    "position": [2198.8051757813, 1207.9501953125, 168.82527160645],
+    "viewangles": [0.38086080551147, -101.84700775146],
+    "grenade": {
+      "run": 1,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Balcony [Unsafe]"],
+    "weapon": "weapon_molotov",
+    "position": [2485.5012207031, 1138.3697509766, 160.03125],
+    "viewangles": [3.8458511829376, -92.082092285156],
+    "grenade": {
+      "run": 20,
+      "run_yaw": -74,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Dark \/ Site"],
+    "weapon": "weapon_smokegrenade",
+    "position": [2492.5358886719, 1192.1137695313, 160.03125],
+    "viewangles": [-6.274160861969, -122.5521774292]
+  },
+  {
+    "name": ["Unnamed", "Graveyard"],
+    "weapon": "weapon_molotov",
+    "position": [1778.2640380859, 1330.1439208984, 160.03125],
+    "viewangles": [0.49065369367599, -56.907150268555],
+    "grenade": {
+      "strength": 0.5,
+      "run": 12,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Long"],
+    "weapon": "weapon_molotov",
+    "position": [1733.9216308594, -108.907081604, 130.49353027344],
+    "viewangles": [-13.589349746704, 52.218353271484],
+    "grenade": {
+      "run": 13,
+      "recovery_yaw": 0
+    }
+  },
+  {
+    "name": ["Unnamed", "Normal graveyard"],
+    "weapon": "weapon_hegrenade",
+    "position": [1986.5770263672, 1225.9565429688, 174.03125],
+    "viewangles": [-28.856882095337, -63.447593688965],
+    "grenade": {
+      "run": 13,
+      "delay": 25,
+      "jump": true,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Banana [Rush]"],
+    "description": "unsafe movement",
+    "weapon": "weapon_hegrenade",
+    "position": [236.66943359375, 1368.4969482422, 104.36462402344],
+    "viewangles": [5.5491528511047, 27.852886199951],
+    "grenade": {
+      "strength": 0.5,
+      "run_yaw": 80,
+      "recovery_jump": true,
+      "recovery_yaw": 0,
+      "run": 23,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Banana [Rush]"],
+    "description": "unsafe movement",
+    "weapon": "weapon_molotov",
+    "position": [236.65776062012, 1368.484375, 104.35626220703],
+    "viewangles": [5.5491528511047, 27.852886199951],
+    "grenade": {
+      "strength": 0.5,
+      "run_yaw": 80,
+      "recovery_jump": true,
+      "recovery_yaw": 0,
+      "run": 23,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Coffins Backside"],
+    "weapon": "weapon_molotov",
+    "position": [451.09716796875, 2020.1021728516, 177.03125],
+    "viewangles": [-13.981342315674, 88.111953735352],
+    "grenade": {
+      "delay": 13,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CT"],
+    "weapon": "weapon_molotov",
+    "position": [439.79006958008, 2006.4254150391, 177.03125],
+    "viewangles": [-35.836757659912, 56.96891784668],
+    "grenade": {
+      "run": 4,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Site Dark Corner"],
+    "weapon": "weapon_molotov",
+    "position": [451.0696105957, 2020.0795898438, 177.03125],
+    "viewangles": [-20.734451293945, 108.55573272705],
+    "grenade": {
+      "delay": 18,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CT"],
+    "weapon": "weapon_molotov",
+    "position": [534.39868164063, 2003.6651611328, 128.03125],
+    "viewangles": [-46.144355773926, 61.560649871826],
+    "grenade": {
+      "run": 13,
+      "recovery_yaw": 41,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CT"],
+    "description": "low damage",
+    "weapon": "weapon_hegrenade",
+    "position": [534.41339111328, 2003.6943359375, 128.03125],
+    "viewangles": [-48.729370117188, 59.965629577637],
+    "grenade": {
+      "run": 22,
+      "recovery_yaw": 41,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CT"],
+    "weapon": "weapon_hegrenade",
+    "position": [460.5256652832, 1828.5440673828, 136.10562133789],
+    "viewangles": [-24.859355926514, 62.30061340332],
+    "grenade": {
+      "run": 1,
+      "delay": 22,
+      "jump": true,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CT"],
+    "weapon": "weapon_molotov",
+    "position": [460.43371582031, 1828.4840087891, 136.11389160156],
+    "viewangles": [-20.019378662109, 61.530693054199]
+  },
+  {
+    "name": ["Unnamed", "Coffins Deep"],
+    "weapon": "weapon_molotov",
+    "position": [664.76867675781, 1874.0297851563, 168.03125],
+    "viewangles": [2.2005734443665, 96.096160888672],
+    "grenade": {
+      "run": 1,
+      "jump": true,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Banana"],
+    "description": "Semi-safe",
+    "weapon": "weapon_molotov",
+    "position": [-72.167869567871, 1384.8336181641, 105.07034301758],
+    "viewangles": [-12.073512077332, 44.221652984619],
+    "grenade": {
+      "delay": 10,
+      "jump": true
+    },
+    "duck": true
+  },
+  {
+    "name": ["Unnamed", "CT"],
+    "weapon": "weapon_molotov",
+    "position": [999.95581054688, 1866.1600341797, 149.85589599609],
+    "viewangles": [6.0765099525452, 121.80221557617],
+    "grenade": {
+      "recovery_yaw": -154,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CT"],
+    "weapon": "weapon_molotov",
+    "position": [935.98040771484, 2192.6586914063, 140.03125],
+    "viewangles": [-29.34349822998, 133.62724304199]
+  },
+  {
+    "name": ["Unnamed", "CT"],
+    "description": "Semi-safe",
+    "weapon": "weapon_hegrenade",
+    "position": [935.97735595703, 2192.7026367188, 140.03125],
+    "viewangles": [-4.4834790229797, 139.23690795898],
+    "grenade": {
+      "run": 5,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Unnamed", "Bench \/ CT"],
+    "weapon": "weapon_molotov",
+    "position": [780.23236083984, 2444.1364746094, 135.97155761719],
+    "viewangles": [-42.818428039551, 45.216556549072],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CT Deep"],
+    "weapon": "weapon_molotov",
+    "position": [534.40612792969, 2003.6301269531, 128.03125],
+    "viewangles": [-42.103511810303, 52.641567230225],
+    "grenade": {
+      "run": 21,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Close Site"],
+    "weapon": "weapon_molotov",
+    "position": [534.37438964844, 2003.6323242188, 128.03125],
+    "viewangles": [-45.478012084961, 91.47428894043],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "CT [Unsafe]"],
+    "description": "Push movement",
+    "weapon": "weapon_hegrenade",
+    "position": [534.43048095703, 2003.8142089844, 128.03125],
+    "viewangles": [30.842990875244, 87.611122131348],
+    "grenade": {
+      "run": 28,
+      "run_yaw": -74,
+      "recovery_yaw": 0,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Coffins Deep [Unsafe]"],
+    "weapon": "weapon_molotov",
+    "position": [691.36590576172, 2228.6342773438, 137.80387878418],
+    "viewangles": [11.368463516235, 121.68417358398],
+    "grenade": {
+      "run": 16,
+      "run_yaw": -77,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Coffins Push [Unsafe]"],
+    "weapon": "weapon_hegrenade",
+    "position": [691.38586425781, 2228.6159667969, 137.80285644531],
+    "viewangles": [12.523465156555, 120.9691696167],
+    "grenade": {
+      "run": 16,
+      "run_yaw": -77,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Coffins"],
+    "weapon": "weapon_molotov",
+    "position": [1026.0078125, 2700.8369140625, 127.97221374512],
+    "viewangles": [-57.216648101807, 144.97361755371],
+    "grenade": {
+      "run": 17,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Up Banana"],
+    "weapon": "weapon_molotov",
+    "position": [1186.2608642578, 2921.734375, 128.03125],
+    "viewangles": [-44.346664428711, -130.68664550781],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Barrels \/ Sandbags"],
+    "weapon": "weapon_molotov",
+    "position": [1186.3041992188, 2921.7482910156, 128.03125],
+    "viewangles": [-49.461738586426, -118.58687591553],
+    "grenade": {
+      "run": 30,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Out Banana"],
+    "weapon": "weapon_molotov",
+    "position": [71.955848693848, 3243.9692382813, 160.03125],
+    "viewangles": [6.6382637023926, -27.891757965088],
+    "grenade": {
+      "run": 18,
+      "run_yaw": -85,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Bench"],
+    "weapon": "weapon_molotov",
+    "position": [371.23571777344, 2020.8839111328, 177.03125],
+    "viewangles": [4.2449522018433, 47.064567565918],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Close Rightside"],
+    "weapon": "weapon_molotov",
+    "position": [1186.2757568359, 2921.7626953125, 128.03125],
+    "viewangles": [0.17494508624077, -142.65483093262],
+    "grenade": {
+      "run": 8,
+      "run_yaw": 90,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Close Rightside"],
+    "weapon": "weapon_hegrenade",
+    "position": [1186.2620849609, 2921.7521972656, 128.03125],
+    "viewangles": [0.17494508624077, -142.65483093262],
+    "grenade": {
+      "run": 8,
+      "run_yaw": 90,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Up Banana"],
+    "weapon": "weapon_hegrenade",
+    "position": [1186.8406982422, 2922.6508789063, 128.03125],
+    "viewangles": [-62.525192260742, -120.07531738281],
+    "grenade": {
+      "run": 29,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Behind Monument"],
+    "weapon": "weapon_molotov",
+    "position": [634.01593017578, 2444.0234375, 193.03125],
+    "viewangles": [-35.748779296875, 26.90904045105],
+    "grenade": {
+      "run": 8,
+      "delay": 26,
+      "jump": true,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Coffins Deep"],
+    "description": "Unsafe movement",
+    "weapon": "weapon_hegrenade",
+    "position": [1025.9786376953, 2700.8601074219, 127.97407531738],
+    "viewangles": [12.321271896362, 107.62474822998],
+    "grenade": {
+      "run": 51,
+      "run_yaw": 83,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Coffins Deep"],
+    "description": "Unsafe movement",
+    "weapon": "weapon_molotov",
+    "position": [1025.9777832031, 2700.8627929688, 127.97407531738],
+    "viewangles": [12.321271896362, 107.62474822998],
+    "grenade": {
+      "run": 51,
+      "run_yaw": 83,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Banana [Anti-Push]"],
+    "weapon": "weapon_molotov",
+    "position": [779.74279785156, 2427.8095703125, 135.89210510254],
+    "viewangles": [-50.869209289551, -125.62734222412],
+    "grenade": {
+      "run": 8,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Banana [Deep]"],
+    "weapon": "weapon_hegrenade",
+    "position": [779.79620361328, 2427.7956542969, 135.89356994629],
+    "viewangles": [10.67581653595, -148.17694091797],
+    "grenade": {
+      "run": 28,
+      "run_yaw": 90,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Banana [Close]"],
+    "description": "Unsafe movement",
+    "weapon": "weapon_hegrenade",
+    "position": [779.83129882813, 2427.802734375, 135.89566040039],
+    "viewangles": [16.94580078125, -148.09208679199],
+    "grenade": {
+      "run": 27,
+      "run_yaw": 90,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Banana [Close]"],
+    "description": "Unsafe movement",
+    "weapon": "weapon_molotov",
+    "position": [779.84588623047, 2427.8117675781, 135.89566040039],
+    "viewangles": [16.505798339844, -148.09208679199],
+    "grenade": {
+      "run": 27,
+      "run_yaw": 90,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Short [Semi-Safe]"],
+    "weapon": "weapon_molotov",
+    "position": [1904.8073730469, 2640.3767089844, 128.03125],
+    "viewangles": [5.4507832527161, 147.17323303223],
+    "grenade": {
+      "run": 35,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Short [Push]"],
+    "description": "Unsafe movement",
+    "weapon": "weapon_hegrenade",
+    "position": [1904.9763183594, 2640.3811035156, 128.03125],
+    "viewangles": [21.235786437988, -148.69764709473],
+    "grenade": {
+      "run": 57,
+      "run_yaw": -76,
+      "recovery_yaw": 0,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Short Towards CT"],
+    "weapon": "weapon_molotov",
+    "position": [925.15057373047, 3408.9064941406, 128.03125],
+    "viewangles": [-58.537307739258, -90.046852111816],
+    "grenade": {
+      "run": 17,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Deep Short"],
+    "description": "Prevent site push",
+    "weapon": "weapon_molotov",
+    "position": [925.15515136719, 3408.9196777344, 128.03125],
+    "viewangles": [-41.707305908203, -99.781448364258],
+    "grenade": {
+      "run": 23,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Close Banana"],
+    "weapon": "weapon_hegrenade",
+    "position": [556.09765625, 2534.1931152344, 291.03125],
+    "viewangles": [-40.002117156982, -107.86592102051],
+    "grenade": {
+      "run": 17,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Full Short"],
+    "weapon": "weapon_hegrenade",
+    "position": [556.07678222656, 2534.1879882813, 291.03125],
+    "viewangles": [-56.059398651123, -88.760818481445],
+    "grenade": {
+      "run": 13,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Full Short"],
+    "weapon": "weapon_molotov",
+    "position": [556.07189941406, 2534.1713867188, 291.03125],
+    "viewangles": [-56.059398651123, -88.760818481445],
+    "grenade": {
+      "run": 13,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Close Banana"],
+    "weapon": "weapon_molotov",
+    "position": [556.09765625, 2534.1931152344, 291.03125],
+    "viewangles": [-40.002117156982, -107.86592102051],
+    "grenade": {
+      "run": 17,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Arch [Out Right]"],
+    "weapon": "weapon_molotov",
+    "position": [2106.2797851563, 1917.9820556641, 181.03125],
+    "viewangles": [-44.126991271973, -117.0219039917],
+    "grenade": {
+      "run": 16,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Arch [Out Left]"],
+    "weapon": "weapon_molotov",
+    "position": [2106.3415527344, 1917.9884033203, 181.03125],
+    "viewangles": [-43.331127166748, -97.046371459961],
+    "grenade": {
+      "run": 15,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Balcony [Cross]"],
+    "description": "Unsafe movement",
+    "weapon": "weapon_molotov",
+    "position": [2543.0341796875, 1135.2443847656, 160.03125],
+    "viewangles": [5.618935585022, -88.356185913086],
+    "grenade": {
+      "run": 48,
+      "run_yaw": -90,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Middle [Prevent Push]"],
+    "weapon": "weapon_molotov",
+    "position": [-650.09191894531, 511.12747192383, 76.03125],
+    "viewangles": [-54.44116973877, -1.4564701318741],
+    "grenade": {
+      "run": 14,
+      "recovery_jump": true,
+      "delay": 31,
+      "recovery_yaw": 67,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Mid [Left]"],
+    "description": "Unsafe movement",
+    "weapon": "weapon_molotov",
+    "position": [122.94200897217, 822.56384277344, 76.761833190918],
+    "viewangles": [5.844765663147, 1.125895857811],
+    "grenade": {
+      "run": 28,
+      "run_yaw": -77,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Mid [Left]"],
+    "weapon": "weapon_molotov",
+    "position": [-198.70356750488, 889.95434570313, 21.452377319336],
+    "viewangles": [3.8647613525391, -21.919065475464],
+    "grenade": {
+      "run": 31,
+      "recovery_yaw": 67,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Mid [Right]"],
+    "weapon": "weapon_molotov",
+    "position": [121.53308105469, 822.71069335938, 76.588973999023],
+    "viewangles": [3.0701680183411, 11.32324886322],
+    "grenade": {
+      "run": 33,
+      "run_yaw": -95,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Mid [Left]"],
+    "weapon": "weapon_molotov",
+    "position": [380.31457519531, 725.97009277344, 88.094772338867],
+    "viewangles": [1.3651615381241, -4.6015644073486],
+    "grenade": {
+      "run": 16,
+      "run_yaw": -90,
+      "recovery_yaw": 180,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Mid [Right]"],
+    "weapon": "weapon_molotov",
+    "position": [380.30813598633, 725.96716308594, 88.102890014648],
+    "viewangles": [7.8551445007324, 5.9036602973938],
+    "grenade": {
+      "run": 16,
+      "run_yaw": -90,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Second Mid \/ Connector"],
+    "description": "Unsafe",
+    "weapon": "weapon_molotov",
+    "position": [380.34362792969, 725.95147705078, 88.103065490723],
+    "viewangles": [16.325124740601, -8.8363428115845],
+    "grenade": {
+      "run": 14,
+      "run_yaw": -90,
+      "recovery_yaw": 180,
+      "jump": true
+    }
+  }
+]
